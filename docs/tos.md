@@ -3,7 +3,7 @@ title: 利用規約など
 description: サーバーに参加する際に、必読なものです。
 sidebar: true
 ---
-[tos]
+[[toc]]
 
 ::: details KinokoNetWork利用規約 {open}
 # KinokoNetWork利用規約
