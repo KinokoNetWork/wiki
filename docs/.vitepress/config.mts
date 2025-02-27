@@ -5,6 +5,8 @@ export default defineConfig({
   title: "KinokoServer2",
   base: '/wiki/',
   description: "Minecraft java and BE edition server",
+  lang: 'ja-JP',
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

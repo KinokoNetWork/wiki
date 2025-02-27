@@ -1,7 +1,35 @@
 ---
 title: トップページ
 description: Hello World!
+sidebar: true
 ---
+
+# 初めての方へ
+見てくれてありがとうございます。このサイトは、KinokoServer2についてのことが書かれたいわゆる「Wiki」みたいなものです。
+
+## ルール
+接続する前にしっかりじゃなくてもいいので(**あとで読んでね**)、一度目を通してください。
+
+[ルールはこちらから読めます。](tos.md)
+
+## 参加方法
+
+## ページ集
+### 原点
+* [ここ](index.md)
+* [利用規約など](tos.md)
+
+### サーバー情報
+
+### サーバー種類
+
+### 見てて楽しいページ
+
+### リンク集
+* [X](https://x.com/kinoko1216)
+* [Discord](https://discord.gg/Rf5xP5JptK)
+* [クラフターズコロニー](https://minecraft-mcworld.com/19072/)
+* [公式seesaaWiki](https://seesaawiki.jp/kinokoserver2/)
 
 <!--
 ---
