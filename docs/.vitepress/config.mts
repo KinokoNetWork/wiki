@@ -24,7 +24,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'x', link: 'https://x.com/kinoko1216' },
+      { icon: 'discord', link: 'https://discord.gg/Rf5xP5JptK' },
+      { icon: 'github', link: 'https://github.com/KinokoNetWork/wiki' }
     ]
   }
 })
