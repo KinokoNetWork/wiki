@@ -22,8 +22,16 @@ sidebar: true
 ### サーバー情報
 
 ### サーバー種類
+* [ロビーサーバー](server/lobby)
+* [ライフサーバー](server/life)
+* [サバイバルサーバー](server/survival)
+* [ミニゲームサーバー（予定）](server/minigame)
+* [サンドボックスサーバー（予定）](server/sandbox)
 
 ### 見てて楽しいページ
+#### プラグインリスト
+* [KinokoManager](plugin/manager)
+* [GSit](plugin/gsit)
 
 ### リンク集
 * [X](https://x.com/kinoko1216)
