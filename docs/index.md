@@ -33,6 +33,13 @@ sidebar: true
 * [KinokoManager](plugin/manager)
 * [GSit](plugin/gsit)
 
+#### グループ
+* [鯖主とその仲間たち](admin/admin)
+
+#### その他
+* [前鯖の身内用語](other/serverwords.md)
+* [前鯖の話](other/server1.md
+
 ### リンク集
 * [X](https://x.com/kinoko1216)
 * [Discord](https://discord.gg/Rf5xP5JptK)
