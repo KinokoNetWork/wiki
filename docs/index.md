@@ -20,6 +20,9 @@ sidebar: true
 * [利用規約など](tos.md)
 
 ### サーバー情報
+* [サーバー概要](info/infoserver.md)
+* [よくある質問](info/qa.md)
+* [お問い合わせ](info/contact.md)
 
 ### サーバー種類
 * [ロビーサーバー](server/lobby)
