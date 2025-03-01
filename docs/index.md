@@ -23,6 +23,7 @@ sidebar: true
 * [サーバー概要](info/infoserver.md)
 * [よくある質問](info/qa.md)
 * [お問い合わせ](info/contact.md)
+* [許可Mod](info/mod.md)
 
 ### サーバー種類
 * [ロビーサーバー](server/lobby)
