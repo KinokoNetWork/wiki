@@ -24,6 +24,8 @@ sidebar: true
 * [よくある質問](info/qa.md)
 * [お問い合わせ](info/contact.md)
 * [許可Mod](info/mod.md)
+* [投票について](info/vote.md)
+* [動画投稿について](info/movie.md)
 
 ### サーバー種類
 * [ロビーサーバー](server/lobby)
@@ -37,8 +39,9 @@ sidebar: true
 * [KinokoManager](plugin/manager)
 * [GSit](plugin/gsit)
 
-#### グループ
+#### 運営体制について
 * [鯖主とその仲間たち](admin/)
+* [鯖主の蛮行について](admin/ownerinfo.md)
 
 #### その他
 * [前鯖の話](other/server1.md)
