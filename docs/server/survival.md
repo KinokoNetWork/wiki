@@ -68,9 +68,8 @@ sidebar: true
 また、Pluginやサーバーの不具合等は、
 ```mcfunction
 /report bug <レポート内容>
-||=
-を打ち込むことによって、運営に不具合が報告できます。
 ```
+を打ち込むことによって、運営に不具合が報告できます。
 :::
 ::: details SimpleVoiceChat（ボイスチャット機能） {close}
 このサーバーは、試験的に**SimpleVoiceChatを導入**しております。<br>
