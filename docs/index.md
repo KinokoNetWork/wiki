@@ -37,8 +37,8 @@ sidebar: true
 * [鯖主とその仲間たち](admin/admin)
 
 #### その他
-* [前鯖の身内用語](other/serverwords.md)
-* [前鯖の話](other/server1.md
+* [前鯖の話](other/server1.md)
+* [サーバー用語](other/serverwords.md)
 
 ### リンク集
 * [X](https://x.com/kinoko1216)
