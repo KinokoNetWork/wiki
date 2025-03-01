@@ -38,7 +38,7 @@ sidebar: true
 * [GSit](plugin/gsit)
 
 #### グループ
-* [鯖主とその仲間たち](admin)
+* [鯖主とその仲間たち](admin/)
 
 #### その他
 * [前鯖の話](other/server1.md)
