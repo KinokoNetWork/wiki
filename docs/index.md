@@ -1,11 +1,11 @@
 ---
-title: トップページ
+title: 🍄トップページ🍄
 description: Hello World!
 sidebar: true
 ---
 
-# 初めての方へ
-見てくれてありがとうございます。このサイトは、KinokoServer2についてのことが書かれたいわゆる「Wiki」みたいなものです。
+# 🍄初めての方へ🍄
+見てくれてありがとうございます。このサイトは、KinokoServer2:mushroom:についてのことが書かれたいわゆる「Wiki」みたいなものです。
 
 ## ルール
 接続する前にしっかりじゃなくてもいいので(**あとで読んでね**)、一度目を通してください。
@@ -37,7 +37,7 @@ sidebar: true
 * [GSit](plugin/gsit)
 
 #### グループ
-* [鯖主とその仲間たち](admin/admin)
+* [鯖主とその仲間たち](admin)
 
 #### その他
 * [前鯖の話](other/server1.md)
