@@ -26,7 +26,7 @@ sidebar: true
 運営メンバーは、現在`6人`が所属しています。
 | 権限 | ユーザ名 | MCID | 運営加入日 | メモ |
 | --- | --- | --- | --- | --- |
-| Owner | きのこ(@kinoko1232) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>Kinoko_2K | 2024/08/18 | Owner兼Developer |
+| Owner | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>Kinoko_2K | 2024/08/18 | Owner兼Developer |
 | Administrator | Pla | <img src="https://minotar.net/avatar/pla_s.png" width="32"/>pla_s | 2025/01/10 | タスクマネージャー |
 | Administrator | hage | <img src="https://minotar.net/avatar/hage_death.png" width="32"/>hage_death | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
 | Staff | とんこつ | <img src="https://minotar.net/avatar/tonkotu10.png" width="32"/>tonkotu10 | 2025/01/12 | 忙しい人 |
