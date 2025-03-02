@@ -71,8 +71,8 @@ sidebar: true
 ```
 を打ち込むことによって、運営に不具合が報告できます。
 :::
-::: details SimpleVoiceChat（ボイスチャット機能） {close}
-このサーバーは、試験的に**SimpleVoiceChatを導入**しております。<br>
+::: details [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat/versions)（ボイスチャット機能） {close}
+このサーバーは、試験的に[**SimpleVoiceChat**](https://modrinth.com/plugin/simple-voice-chat/versions)**を導入**しております。<br>
 この機能は、ModであるSimpleVoiceChatを**導入することで、作動する機能**であり、**サーバー内でボイスチャットができるMod**です。<br>
 ※YouTubeでよく見る人狼ゲーム等で使用されるModです。<br>
 
