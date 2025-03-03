@@ -17,6 +17,7 @@ sidebar: true
 ## ページ集
 ### 原点
 * [ここ](index.md)
+* [For Visitors](visitors.md)
 * [利用規約など](tos.md)
 
 ### サーバー情報
