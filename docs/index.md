@@ -45,6 +45,7 @@ sidebar: true
 * [鯖主の蛮行について](admin/ownerinfo.md)
 
 #### その他
+* [サーバーニュース](news/)
 * [前鯖の話](other/server1.md)
 * [サーバー用語](other/serverwords.md)
 
