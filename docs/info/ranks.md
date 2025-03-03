@@ -16,22 +16,22 @@ sidebar: true
 
 - <span style="color:gray;">**[Beginner]**</span>
   - 始めたてのプレイヤー
-  - プレイ時間2時間以上~12時間未満、または、投票数5回以上~30回未満
+  - プレイ時間2時間以上から12時間未満、または、投票数5回以上から30回未満
   - TNTの権限やTT作成の権限等
 
 - <span style="color:lightblue;">**[Beginner<span style="color:lightgreen;">+</span>]**</span>
   - まぁまぁのプレイヤー
-  - プレイ時間12時間以上~48時間未満、または、投票数30回以上~100回未満
+  - プレイ時間12時間以上から48時間未満、または、投票数30回以上から100回未満
   - Honorの権限等
 
 - <span style="color:orange;">**[Regular]**</span>
   - もはやプレイヤー
-  - プレイ時間48時間以上~120時間未満、または、投票数100回以上~300回未満
+  - プレイ時間48時間以上から120時間未満、または、投票数100回以上から300回未満
   - nickname(名前の変更)やhead(頭生成)の権限等
 
 - <span style="color:orange;">**[Regular<span style="color:lightgreen;">+</span>]**</span>
   - もはや²プレイヤー
-  - プレイ時間120時間以上~240時間未満、または、投票数300回以上~500回未満
+  - プレイ時間120時間以上から240時間未満、または、投票数300回以上から500回未満
   - その他権限
 
 - <span style="color:lightgreen;">**[Verified]**</span>
