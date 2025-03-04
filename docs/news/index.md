@@ -4,6 +4,8 @@ description: Discordでお知らせしたものとアップデート内容が書
 sidebar: true
 ---
 # サーバーニュース
+[[toc]]
+
 ### — 2025/01/11 23:46
 運営就任について<br>
 Pla's!氏が、Administrator（プレイヤー対応）に所属しました。
