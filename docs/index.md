@@ -36,6 +36,9 @@ sidebar: true
 * [サンドボックスサーバー（予定）](server/sandbox)
 
 ### 見てて楽しいページ
+#### 機能・便利
+* [ランクについて（サバイバル鯖）](info/ranks)
+
 #### プラグインリスト
 * [KinokoManager](plugin/manager)
 * [GSit](plugin/gsit)
