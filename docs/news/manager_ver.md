@@ -7,6 +7,8 @@ sidebar: true
 [[toc]]
 
 ## SurvivalManager
+### Ver 1.8.0
+
 ### Ver 1.7.0
 - ユーザ設定コマンドの追加
 
