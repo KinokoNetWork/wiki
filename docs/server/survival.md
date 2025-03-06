@@ -37,6 +37,10 @@ sidebar: true
 :::
 
 ## 主な追加機能・要素
+- 死ぬと、アイテムが、その場のチェストに保存され、左クリックで回収可能です。
+- 投票した際に、オンライン時だと、鉄インゴット1個が配られます。
+- エンドで[エリトラが使用不可](https://note.com/kinoko1216/n/nabad73bb6437?sub_rt=share_sb)です。
+
 ::: details LWC（チェスト保護） {open}
 サバイバルサーバーでは、チェストの中身を取られないようにするように、チェスト保護機能があります。<br>
 ※チェスト保護をしてないチェストでの窃盗は、処罰対象外になることがあります。
@@ -44,6 +48,9 @@ sidebar: true
 ### チェスト保護の仕方
 - チェストを置く
 ![](https://image02.seesaawiki.jp/k/2/kinokoserver2/T5Io71H1U9.png)
+
+### 個人保護から共通保護にする方法
+`/cmodify public`を打った後に、対象チェストを左クリックする。
 
 ### コマンド一覧
 | コマンド | 概要 |
@@ -59,7 +66,7 @@ sidebar: true
 | /cremove | 保護を削除します。 |
 :::
 
-::: details プレイヤーレポート {open}
+::: details プレイヤーレポート
 ```mcfunction
 /report player <mcid> <レポート内容>
 ```
@@ -71,6 +78,28 @@ sidebar: true
 ```
 を打ち込むことによって、運営に不具合が報告できます。
 :::
+
+::: details ユーザ設定機能
+`/usersettings`を使用すると、ユーザ設定がチャットで開きます。
+
+- Sidebar
+  - 右にあるスコアボード表示を削除できます。
+  - `Beginner+`以上のランクで使用可能です。
+- Automsg
+  - 定期的に表示されているメッセージを削除できます。
+  - `Regular`以上のランクで使用可能です。
+:::
+
+::: details 特定の文字列で絵文字に変換される機能
+- `:thinking:` → 🤔
+- `:smile:` → 😃
+- `:sad:` → 😢
+- `:angry:` → 😡
+- `:heart:` → ❤️
+- `:thumbsup:` → 👍
+- `:thumbsdown:` → 👎
+:::
+
 ::: details [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat/versions)（ボイスチャット機能） {close}
 このサーバーは、試験的に[**SimpleVoiceChat**](https://modrinth.com/plugin/simple-voice-chat/versions)**を導入**しております。<br>
 この機能は、ModであるSimpleVoiceChatを**導入することで、作動する機能**であり、**サーバー内でボイスチャットができるMod**です。<br>
