@@ -34,3 +34,9 @@ https://form.run/@kinokonetwork
 
 ▼Discord招待リンク<br>
 https://discord.gg/Rf5xP5JptK
+
+## お問い合わせ優先度
+1. サーバー内チャットでの質問（マイクラにログインしてれば可能）
+2. サーバー管理者のDM（許可が必要）
+3. お問い合わせチャンネル（全員可能）
+4. お問い合わせURL（全員可能）
