@@ -8,6 +8,11 @@ sidebar: true
 [[toc]]
 :::
 
+## KinokoManagerの更新について
+詳しくは、[KinokoManagerのアプデログ](manager_ver)
+
+## サーバーお知らせ内容
+
 ### 2025/03/06 00:26
 #### ❏SurvivalServerの更新
 - 投票した際に、鉄インゴット1個が配られるようになりました。
