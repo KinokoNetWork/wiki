@@ -26,12 +26,12 @@ sidebar: true
 運営メンバーは、現在`6人`が所属しています。
 | 権限 | ユーザ名 | MCID | 運営加入日 | メモ |
 | --- | --- | --- | --- | --- |
-| Owner | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>Kinoko_2K | 2024/08/18 | Owner兼Developer |
-| Administrator | Pla | <img src="https://minotar.net/avatar/pla_s.png" width="32"/>pla_s | 2025/01/10 | タスクマネージャー |
-| Staff | hage | <img src="https://minotar.net/avatar/hage_death.png" width="32"/>hage_death | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
-| Staff | とんこつ | <img src="https://minotar.net/avatar/tonkotu10.png" width="32"/>tonkotu10 | 2025/01/12 | 忙しい人 |
-| Staff | TRUENO | <img src="https://minotar.net/avatar/TRUENO13954.png" width="32"/>TRUENO13954 | 2025/01/25 | 忙しい人 |
-| Staff | torokuro | <img src="https://minotar.net/avatar/IAMcpvpNoob.png" width="32"/>IAMcpvpNoob | 2025/01/27 | DeveloperからStaffへ, 忙しい人 |
+| Owner | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>[Kinoko_2K](ownerinfo) | 2024/08/18 | Owner兼Developer |
+| Administrator | Pla | <img src="https://minotar.net/avatar/pla_s.png" width="32"/>[pla_s](pla_s) | 2025/01/10 | タスクマネージャー |
+| Staff | hage | <img src="https://minotar.net/avatar/hage_death.png" width="32"/>[hage_death](hagenanndesu) | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
+| Staff | とんこつ | <img src="https://minotar.net/avatar/tonkotu10.png" width="32"/>[tonkotu10](ton10) | 2025/01/12 | 忙しい人 |
+| Staff | TRUENO | <img src="https://minotar.net/avatar/TRUENO13954.png" width="32"/>[TRUENO13954](trueno13954) | 2025/01/25 | 忙しい人 |
+| Staff | torokuro | <img src="https://minotar.net/avatar/IAMcpvpNoob.png" width="32"/>[IAMcpvpNoob](torokuro) | 2025/01/27 | DeveloperからStaffへ, 忙しい人 |
 
 ### 運営メンバーだった人
 運営を辞職した人は、`2人`います。
