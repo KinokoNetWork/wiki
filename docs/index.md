@@ -38,6 +38,7 @@ sidebar: true
 ### 見てて楽しいページ
 #### 機能・便利
 * [ランクについて（サバイバル鯖）](info/ranks)
+* [役職名とPrefixについて](info/prefix)
 
 #### プラグインリスト
 * [KinokoManager](plugin/manager)
