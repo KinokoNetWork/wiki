@@ -57,6 +57,8 @@ sidebar: true
 | /cunlock [password] | パスワード保護を解除します。 |
 | /cinfo | 保護の情報を表示します。 |
 | /cremove | 保護を削除します。 |
+| /tt | トラップタワーを作成した際にDiscordへ送信して報告できます。 |
+/ttについては[こちら](/trap.md)で詳しく解説しています。是非ご覧ください。<br>
 :::
 
 ::: details プレイヤーレポート {open}
