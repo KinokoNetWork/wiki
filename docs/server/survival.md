@@ -66,17 +66,19 @@ sidebar: true
 | /cremove | 保護を削除します。 |
 :::
 
-::: details プレイヤーレポート
+::: details プレイヤーレポート {open}
 ```mcfunction
 /report player <mcid> <レポート内容>
 ```
 を打ち込むことによって、運営に怪しいプレイヤーを報告できます。<br>
+![コマンド_プレイヤーレポート例](../images/cmd_playerReport.png)
 
 また、Pluginやサーバーの不具合等は、
 ```mcfunction
 /report bug <レポート内容>
 ```
 を打ち込むことによって、運営に不具合が報告できます。
+![コマンド_バグレポート例](../images/cmd_bugReport.png)
 :::
 
 ::: details ユーザ設定機能

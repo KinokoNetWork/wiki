@@ -9,7 +9,7 @@ sidebar: true
 投票機能とは、外部サービス「[MinePortal](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)」の「きのこサーバー」への投票を行うと、スコアが上がり、宣伝につながることです。
 
 投票すると、鉄インゴット1個（名称に着色）が貰えます。（オフライン時だと安定しないので、オンライン時に投票することをお勧めします。）あと、鯖主が喜びます。🎉
-![vote_IronIngot](images/image.png)
+![vote_IronIngot](../images/voteiron_ingot.png)
 
 投票するには、外部サービスのログインをしないといけません。
 

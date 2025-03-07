@@ -22,7 +22,7 @@ sidebar: true
 ### カ行
 * **キリンパイやん、キリンパイ、え、キリンパイ、エキソンパイってなんやねん**<br>
 [エキソンパイ](https://www.sanmangoku.co.jp/products/ekisonpai/)の包装紙が、光の反射で、キリンパイに見えたことから。
-![エキソンパイの画像](image/ekisonpie.png)
+![エキソンパイの画像](../images/serverword/ekisonpie.png)
 
 * **ゲーミング スマホなのに iPhone が作った**<br>
 あまり、iPhoneに詳しくはないが、ゲーミングスマホはなさそうだし、iPhoneが作ったのではなくApple社が作っているだろう。
