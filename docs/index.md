@@ -7,6 +7,12 @@ sidebar: true
 # 🍄初めての方へ🍄
 見てくれてありがとうございます。このサイトは、KinokoServer2:mushroom:についてのことが書かれたいわゆる「Wiki」みたいなものです。
 
+::: tip
+現在、サバイバルサーバーが公開されたので、バグ修正や更新を行っておりますが、<br>3月中旬ごろに、経済サーバーの開発を進めたいので、一旦サバイバルサーバーの更新をストップする可能性があります。<br>
+
+しかし、重大なバグ発生が起こった際は、優先的に修正します。
+:::
+
 ## ルール
 接続する前にしっかりじゃなくてもいいので(**あとで読んでね**)、一度目を通してください。
 
@@ -17,7 +23,7 @@ sidebar: true
 ## ページ集
 ### 原点
 * [ここ](index.md)
-* [For Visitors](visitors.md)
+* [For Visitors/外国の方向け](visitors.md)
 * [利用規約など](tos.md)
 
 ### サーバー情報
@@ -54,10 +60,11 @@ sidebar: true
 * [サーバー用語](other/serverwords.md)
 
 ### リンク集
-* [X](https://x.com/kinoko1216)
-* [Discord](https://discord.gg/Rf5xP5JptK)
+* [鯖主のX](https://x.com/kinoko1216)
+* [Discord - 🍄きのこサーバー🍄](https://discord.gg/Rf5xP5JptK)
 * [クラフターズコロニー](https://minecraft-mcworld.com/19072/)
 * [公式seesaaWiki](https://seesaawiki.jp/kinokoserver2/)
+* [MinePortal](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
 
 <!--
 ---
