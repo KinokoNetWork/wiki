@@ -53,6 +53,8 @@ sidebar: true
 * [AthleticSystem（アスレのPlugin）](plugin/as)
 
 #### 運営体制について
+* [サーバー運営方針](admin/adpolicy)
+* [運営登用規約](admin/adpolicy_employ)
 * [鯖主とその仲間たち](admin/)
 * [鯖主の蛮行について](admin/ownerinfo.md)
 
