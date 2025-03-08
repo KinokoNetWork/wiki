@@ -23,7 +23,7 @@ KinokoNetWork内で開発された、Pluginのことを指します。<br>
 
 * **Survivalmanager**
   * `/tt`コマンドの追加
-  * `/sidebar [on/off]`コマンドの追加
+  * `/usersettings`コマンドの追加
   * 運営補助コマンドの追加
 
 ## 機能・コマンド
@@ -33,8 +33,8 @@ KinokoNetWork内で開発された、Pluginのことを指します。<br>
 | `/wiki` | WikiURLを表示する。 | All |
 | `/web` | サイトを表示する。 | All |
 | `/discord` | Discord招待リンクを表示する。 | All |
+| `/<servername>` | サーバーに参加することができる。 | All |
 | `/menu` | メニューを開く。しかし、Life鯖は公開されていないので、入れない。 | ロビー鯖のみ |
 | `/slot` | スロットを行う。 | ロビー鯖のみ |
-| `/<servername>` | サーバーに参加することができる。 | All |
 | `/tt <x> <y> <z> <title>` | TT作成したのちに、このコマンドを実行することで、DiscordにTT作成通知が送信される。 | サバイバル鯖のみ |
 | `/usersettings` | ランクによって、サイドバーの表示を変えたり、定期メッセージの表示を変えたりできるユーザ設定コマンド | サバイバル鯖のみ |

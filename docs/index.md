@@ -50,6 +50,7 @@ sidebar: true
 * [KinokoManager（鯖専用Plugin）](plugin/manager)
 * [GSit（椅子に座れるPlugin）](plugin/gsit)
 * [LWC（チェスト守るやつ）](plugin/lwc)
+* [AthleticSystem（アスレのPlugin）](plugin/as)
 
 #### 運営体制について
 * [鯖主とその仲間たち](admin/)
