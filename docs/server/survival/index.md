@@ -40,7 +40,7 @@ sidebar: true
 - 死ぬと、アイテムが、その場のチェストに保存され、左クリックで回収可能です。
 - 投票した際に、オンライン時だと、鉄インゴット1個が配られます。
 - エンドで[エリトラが使用不可](https://note.com/kinoko1216/n/nabad73bb6437?sub_rt=share_sb)です。
-- [ミッションについて](survival/mission)
+- [ミッションについて](mission)
 
 ::: details LWC（チェスト保護） {open}
 サバイバルサーバーでは、チェストの中身を取られないようにするように、チェスト保護機能があります。<br>
@@ -72,14 +72,14 @@ sidebar: true
 /report player <mcid> <レポート内容>
 ```
 を打ち込むことによって、運営に怪しいプレイヤーを報告できます。<br>
-![コマンド_プレイヤーレポート例](../images/cmd_playerReport.png)
+![コマンド_プレイヤーレポート例](../../images/cmd_playerReport.png)
 
 また、Pluginやサーバーの不具合等は、
 ```mcfunction
 /report bug <レポート内容>
 ```
 を打ち込むことによって、運営に不具合が報告できます。
-![コマンド_バグレポート例](../images/cmd_bugReport.png)
+![コマンド_バグレポート例](../../images/cmd_bugReport.png)
 :::
 
 ::: details ユーザ設定機能
