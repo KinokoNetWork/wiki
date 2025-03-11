@@ -14,8 +14,10 @@ sidebar: true
 まぁ、マイクラサーバー運営の経験は、今後サーバーを運営したい人へのスキルアップにつながるので参加することは大事だと思いますが（鯖主）
 
 ## 運営募集や参加について
-現在は、**運営募集していません**が、ユーザの中から、運営メンバーの**推薦や勧誘**で、運営メンバーになれます。<br>
-鯖主が、運営一人一人に話してから、運営メンバーになりますので、生半可（軽い）気持ちで、参加しようとするのならば、その程度で跳ね返します。
+MineIdea（外部サービス）に、運営募集要項が記載されております。運営になりたいと志願している方は、MineIdea先のGoogleフォームから応募できます。<br>
+ですが、鯖主が、運営一人一人に話してから、運営メンバーになりますので、生半可（軽い）気持ちで、参加しようとするのならば、その程度で跳ね返します。<br>
+
+[MineIdea - KinokoServer2](https://mineidea.net/projects/5247340957)
 
 ### 運営コミュニティについて
 運営メンバーは、頻度高めで、サーバーの機能や今後について話し合っています。<br>
@@ -28,10 +30,10 @@ sidebar: true
 | --- | --- | --- | --- | --- |
 | Owner | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>[Kinoko_2K](ownerinfo) | 2024/08/18 | Owner兼Developer |
 | Administrator | Pla | <img src="https://minotar.net/avatar/pla_s.png" width="32"/>[pla_s](pla_s) | 2025/01/10 | タスクマネージャー |
-| Staff | hage | <img src="https://minotar.net/avatar/hage_death.png" width="32"/>[hage_death](hagenanndesu) | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
-| Staff | とんこつ | <img src="https://minotar.net/avatar/tonkotu10.png" width="32"/>[tonkotu10](ton10) | 2025/01/12 | 忙しい人 |
+| Builder, Staff | hage | <img src="https://minotar.net/avatar/hage_death.png" width="32"/>[hage_death](hagenanndesu) | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
+| Builder, Staff | とんこつ | <img src="https://minotar.net/avatar/tonkotu10.png" width="32"/>[tonkotu10](ton10) | 2025/01/12 | 忙しい人 |
 | Staff | TRUENO | <img src="https://minotar.net/avatar/TRUENO13954.png" width="32"/>[TRUENO13954](trueno13954) | 2025/01/25 | 忙しい人 |
-| Staff | torokuro | <img src="https://minotar.net/avatar/IAMcpvpNoob.png" width="32"/>[IAMcpvpNoob](torokuro) | 2025/01/27 | DeveloperからStaffへ, 忙しい人 |
+| Developer, Staff | torokuro | <img src="https://minotar.net/avatar/IAMcpvpNoob.png" width="32"/>[IAMcpvpNoob](torokuro) | 2025/01/27 | DeveloperからStaffへ, 忙しい人 |
 
 ### 運営メンバーだった人
 運営を辞職した人は、`2人`います。
