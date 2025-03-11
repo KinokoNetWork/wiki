@@ -37,5 +37,5 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - サーバーに負荷を与えるMod
 
 ## 禁止Mod名
-- Fether Client
+- Feather Client
 - その他、チート・ハッキングを可能とするMod・クライアント
