@@ -35,3 +35,9 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - 放置を回避するMod
 - ミニマップMod
 - サーバーに負荷を与えるMod
+- 設計図Mod
+
+## 禁止Mod名
+- Feather Client
+- Litematica
+- その他、チート・ハッキングを可能とするMod・クライアント
