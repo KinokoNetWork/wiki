@@ -23,8 +23,8 @@ sidebar: true
 ## ページ集
 ### 原点
 * [ここ](index.md)
-* [For Visitors/外国の方向け](visitors.md)
 * [利用規約など](tos.md)
+* [For Visitors](visitors.md)
 
 ### サーバー情報
 * [サーバー概要](info/infoserver.md)
@@ -39,7 +39,7 @@ sidebar: true
 * [ライフサーバー](server/life)
 * [サバイバルサーバー](server/survival/)
 * [ミニゲームサーバー（予定）](server/minigame)
-* [サンドボックスサーバー（予定）](server/sandbox)
+* [サンドボックスサーバー](server/sandbox)
 
 ### 見てて楽しいページ
 #### 機能・便利
