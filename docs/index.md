@@ -1,6 +1,6 @@
 ---
 title: 🍄トップページ🍄
-description: Hello World!
+description: きのこサーバー2は、Kinoko_2K@kinoko1216が運営するマイクラサーバーです。
 sidebar: true
 ---
 
@@ -22,17 +22,16 @@ sidebar: true
 
 ## ページ集
 ### 原点
-* [ここ](index.md)
-* [利用規約など](tos.md)
-* [For Visitors](visitors.md)
+* [メインページ](index.md)
+* [📌利用規約など](tos.md)
+* [🌐For Visitors](visitors.md)
 
 ### サーバー情報
-* [サーバー概要](info/infoserver.md)
-* [よくある質問](info/qa.md)
-* [お問い合わせ](info/contact.md)
-* [許可Mod](info/mod.md)
-* [投票について](info/vote.md)
-* [動画投稿について](info/movie.md)
+* [🔰サーバー概要](info/infoserver.md)
+* [❓よくある質問](info/qa.md)
+* [✅許可Mod](info/mod.md)
+* [📮投票について](info/vote.md)
+* [📩お問い合わせ](info/contact.md)
 
 ### サーバー種類
 * [ロビーサーバー](server/lobby)
@@ -51,12 +50,13 @@ sidebar: true
 * [GSit（椅子に座れるPlugin）](plugin/gsit)
 * [LWC（チェスト守るやつ）](plugin/lwc)
 * [AthleticSystem（アスレのPlugin）](plugin/as)
+* [MissionManager（ミッションPlugin）](server/survival/mission)
 
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
 * [運営登用規約](admin/adpolicy_employ)
-* [鯖主とその仲間たち](admin/)
-* [鯖主の蛮行について](admin/ownerinfo.md)
+* [鯖を支える運営メンバー](admin/)
+* [鯖主について](admin/ownerinfo.md)
 
 #### その他
 * [サーバーニュース](news/)
