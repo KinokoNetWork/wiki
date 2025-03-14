@@ -64,11 +64,15 @@ sidebar: true
 * [サーバー用語](other/serverwords.md)
 
 ### リンク集
-* [鯖主のX](https://x.com/kinoko1216)
+* [鯖主のX(Twitter)](https://x.com/kinoko1216)
 * [Discord - 🍄きのこサーバー🍄](https://discord.gg/Rf5xP5JptK)
-* [クラフターズコロニー](https://minecraft-mcworld.com/19072/)
-* [公式seesaaWiki](https://seesaawiki.jp/kinokoserver2/)
-* [MinePortal](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
+* [クラフターズコロニー（掲示板）](https://minecraft-mcworld.com/19072/)
+* [公式seesaaWiki（別Wiki）](https://seesaawiki.jp/kinokoserver2/)
+* [MinePortal（投票サイト）](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
+
+※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。<br>
+※MinecraftはMojangの登録商標です。
+
 
 <!--
 ---
