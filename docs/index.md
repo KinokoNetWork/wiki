@@ -35,7 +35,7 @@ sidebar: true
 
 ### サーバー種類
 * [ロビーサーバー](server/lobby)
-* [ライフサーバー](server/life)
+* [ライフサーバー](server/life/)
 * [サバイバルサーバー](server/survival/)
 * [ミニゲームサーバー（予定）](server/minigame)
 * [サンドボックスサーバー](server/sandbox)
