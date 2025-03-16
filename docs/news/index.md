@@ -181,7 +181,7 @@ https://kinokonetwork.github.io/wiki/info/mod.html
 また、現在手動確認となっているので、即設定できるわけではないのでご注意ください。<br>
 
 以下の、Wikiに詳しく書かれています。<br>
-https://kinokonetwork.github.io/wiki/info/ranks.html
+https://kinokonetwork.github.io/wiki/info/prefix.html
 
 ### 2025/03/03 20:29
 #### ❏/sitや階段ブロックを右クリックすることで、座れるようになりました。（SurvivalServer）

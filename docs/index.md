@@ -42,7 +42,7 @@ sidebar: true
 
 ### 見てて楽しいページ
 #### 機能・便利
-* [ランクについて（サバイバル鯖）](info/ranks)
+* [ランクについて（サバイバル鯖）](info/prefix)
 * [役職名とPrefixについて](info/prefix)
 
 #### プラグインリスト

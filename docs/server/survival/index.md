@@ -44,6 +44,7 @@ sidebar: true
 - 投票した際に、オンライン時だと、鉄インゴット1個が配られます。
 - エンドで[エリトラが使用不可](https://note.com/kinoko1216/n/nabad73bb6437?sub_rt=share_sb)です。
 - [ミッションについて](mission)
+- [ランクについて](../../info/prefix)
 
 ::: details LWC（チェスト保護） {open}
 サバイバルサーバーでは、チェストの中身を取られないようにするように、チェスト保護機能があります。<br>
