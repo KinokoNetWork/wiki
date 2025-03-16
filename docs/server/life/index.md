@@ -1,9 +1,9 @@
 ---
-title: LifeLifeサーバー
+title: Lifeサーバー
 description: 開発中の経済鯖です。
 sidebar: true
 ---
-# ライフサーバー（LifeLifeServer）
+# ライフサーバー（LifeServer）
 現在、構想開発中の、経済鯖を指します。<br>
 鯖主的に、経済鯖を手がけるのは初めて試みなので、経済要素が崩れないように、運営していきたいところから、長期開発に至っています。<br>
 
