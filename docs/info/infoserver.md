@@ -9,7 +9,7 @@ sidebar: true
 | サーバー名         | きのこサーバー2           |
 | プロジェクト名     | KinokoNetwork            |
 | サーバー責任者     | Kinoko_2K (@kinoko1216)  |
-| 在籍運営数         | 6人                      |
+| 在籍運営数         | 7人                      |
 | サーバーIP         | `kinoko.ddns.net:25565`  |
 | BEサーバーIP       | `kinoko.ddns.net:19132`  |
 | サーバーソフト      | Velocity 1.12.2 ~ 1.21.x |

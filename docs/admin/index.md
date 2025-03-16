@@ -25,7 +25,7 @@ MineIdea（外部サービス）に、運営募集要項が記載されており
 マジで、仕事してなかったら、仕事課しますが。
 
 ## 運営メンバー
-運営メンバーは、現在`6人`が所属しています。
+運営メンバーは、現在`7人`が所属しています。
 | 権限 | ユーザ名 | MCID | 運営加入日 | メモ |
 | --- | --- | --- | --- | --- |
 | Owner | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>[Kinoko_2K](ownerinfo) | 2024/08/18 | Owner兼Developer |
@@ -34,6 +34,7 @@ MineIdea（外部サービス）に、運営募集要項が記載されており
 | Builder, Staff | とんこつ | <img src="https://minotar.net/avatar/tonkotu10.png" width="32"/>[tonkotu10](ton10) | 2025/01/12 | 忙しい人 |
 | Staff | TRUENO | <img src="https://minotar.net/avatar/TRUENO13954.png" width="32"/>[TRUENO13954](trueno13954) | 2025/01/25 | 忙しい人 |
 | Developer, Staff | torokuro | <img src="https://minotar.net/avatar/IAMcpvpNoob.png" width="32"/>[IAMcpvpNoob](torokuro) | 2025/01/27 | DeveloperからStaffへ, 忙しい人 |
+| Staff | shoki04 | <img src="https://minotar.net/avatar/shoki04.png" width="32"/>shoki04 | 2025/03/16 | Temporary権限で、参加 |
 
 ### 運営メンバーだった人
 運営を辞職した人は、`2人`います。
