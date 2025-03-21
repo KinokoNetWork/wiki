@@ -1,6 +1,6 @@
 ---
 title: 運営募集について
-description: サーバーを管理者の他に、支持するメンバーを募集しています！！
+description: サーバーを管理者の他に、支持するメンバーを募集しています！！\nhttps://mineidea.net/projects/5247340957
 sidebar: true
 ---
 # 運営募集について
