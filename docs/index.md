@@ -58,6 +58,7 @@ sidebar: true
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
 * [運営登用規約](admin/adpolicy_employ)
+* [運営募集について](admin/recruit.md)
 * [鯖を支える運営メンバー](admin/)
 * [鯖主について](admin/ownerinfo.md)
 
