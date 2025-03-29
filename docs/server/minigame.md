@@ -8,7 +8,7 @@ sidebar: true
 
 開発中のゲームはありますが...
 
-## BowAttack（開発中）
+## BowAttack
 ![](../images/bowattack.png)
 弓vs弓の簡単なPvP！<br>
 
