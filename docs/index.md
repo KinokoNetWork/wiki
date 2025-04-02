@@ -34,13 +34,13 @@ sidebar: true
 * [🍀ロビーサーバー](server/lobby)
 * [📉ライフサーバー](server/life/)
 * [🥪サバイバルサーバー](server/survival/)
-* [🎮ミニゲームサーバー（予定）](server/minigame)
+* [🎮ミニゲームサーバー](server/minigame)
 * [🧱サンドボックスサーバー](server/sandbox)
 
 ### 見てて楽しいページ
 #### 機能・便利
-* [ランクについて（サバイバル鯖）](info/prefix)
-* [役職名とPrefixについて](info/prefix)
+* [🌸ランクについて（サバイバル鯖）](info/prefix)
+* [🔍役職名とPrefixについて](info/prefix)
 
 #### プラグインリスト
 * [KinokoManager（鯖専用Plugin）](plugin/manager)
