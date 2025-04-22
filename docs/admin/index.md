@@ -25,20 +25,23 @@ MineIdea（外部サービス）に、運営募集要項が記載されており
 マジで、仕事してなかったら、仕事課しますが。
 
 ## 運営メンバー
-運営メンバーは、現在`6人`が所属しています。
+運営メンバーは、現在`5人`が所属しています。
 | 権限 | ユーザ名 | MCID | 運営加入日 | メモ |
 | --- | --- | --- | --- | --- |
 | Owner | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>[Kinoko_2K](ownerinfo) | 2024/08/18 | Owner兼Developer |
 | Administrator | Pla | <img src="https://minotar.net/avatar/pla_s.png" width="32"/>[pla_s](pla_s) | 2025/01/10 | タスクマネージャー |
 | Builder, Staff | hage | <img src="https://minotar.net/avatar/hage_death.png" width="32"/>[hage_death](hagenanndesu) | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
 | Builder, Staff | とんこつ | <img src="https://minotar.net/avatar/tonkotu10.png" width="32"/>[tonkotu10](ton10) | 2025/01/12 | 忙しい人 |
-| Staff | TRUENO | <img src="https://minotar.net/avatar/TRUENO13954.png" width="32"/>[TRUENO13954](trueno13954) | 2025/01/25 | 忙しい人 |
-| Developer, Staff | torokuro | <img src="https://minotar.net/avatar/IAMcpvpNoob.png" width="32"/>[IAMcpvpNoob](torokuro) | 2025/01/27 | DeveloperからStaffへ, 忙しい人 |
+| Staff | shoki04 | <img src="https://minotar.net/avatar/shoki04.png" width="32"/>[shoki04](shoki04) | 2025/03/16 | Temporary権限で、参加 |
 
 ### 運営メンバーだった人
-運営を辞職した人は、`2人`います。
+運営を辞職した人は、`4人`います。
 | 権限 | ユーザ名 | MCID | 運営加入日 | 運営辞職日 | 辞職理由 |
 | --- | --- | --- | --- | --- | --- |
 | Staff | tenju831kirai | tenju831kirai | 2024/10/03 | 2025/02/02 | サーバー運営の妨害 |
 | Developer | 卵焼き君だー | tamagoyakikunda | 2025/01/12 | 2025/02/02 | アカウント保護により、辞職 |
 | Admin→Staff | hagenanndesu | hage_death | 2025/01/12 | 2025/03/02 | 権限濫用につき、権限降格 |
+| Owner→活動休止 | きのこ(@kinoko1216) | Kinoko_2K | 2024/08/18 | 2025/04/01 | 運営休暇 |
+| Developer, Staff | torokuro | IAMcpvpNoob | 2025/01/27 | 2025/04/20 | 積極的な運営活動が見られないため |
+| Staff | TRUENO13954 | TRUENO13954 | 2025/01/25 | 2025/04/20 | 積極的な運営活動が見られないため |
+
