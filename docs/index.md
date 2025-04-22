@@ -7,6 +7,12 @@ sidebar: true
 # 🍄初めての方へ🍄
 見てくれてありがとうございます。このサイトは、KinokoServer2:mushroom:についてのことが書かれたいわゆる「Wiki」みたいなものです。
 
+::: tip
+現在、サバイバルサーバーが公開されたので、バグ修正や更新を行っておりますが、<br>3月中旬ごろに、経済サーバーの開発を進めたいので、一旦サバイバルサーバーの更新をストップする可能性があります。<br>
+
+しかし、重大なバグ発生が起こった際は、優先的に修正します。
+:::
+
 ## ルール
 接続する前にしっかりじゃなくてもいいので(**あとで読んでね**)、一度目を通してください。
 
@@ -17,7 +23,7 @@ sidebar: true
 ## ページ集
 ### 原点
 * [ここ](index.md)
-* [For Visitors](visitors.md)
+* [For Visitors/外国の方向け](visitors.md)
 * [利用規約など](tos.md)
 
 ### サーバー情報
@@ -31,16 +37,24 @@ sidebar: true
 ### サーバー種類
 * [ロビーサーバー](server/lobby)
 * [ライフサーバー](server/life)
-* [サバイバルサーバー](server/survival)
+* [サバイバルサーバー](server/survival/)
 * [ミニゲームサーバー（予定）](server/minigame)
 * [サンドボックスサーバー（予定）](server/sandbox)
 
 ### 見てて楽しいページ
+#### 機能・便利
+* [ランクについて（サバイバル鯖）](info/ranks)
+* [役職名とPrefixについて](info/prefix)
+
 #### プラグインリスト
-* [KinokoManager](plugin/manager)
-* [GSit](plugin/gsit)
+* [KinokoManager（鯖専用Plugin）](plugin/manager)
+* [GSit（椅子に座れるPlugin）](plugin/gsit)
+* [LWC（チェスト守るやつ）](plugin/lwc)
+* [AthleticSystem（アスレのPlugin）](plugin/as)
 
 #### 運営体制について
+* [サーバー運営方針](admin/adpolicy)
+* [運営登用規約](admin/adpolicy_employ)
 * [鯖主とその仲間たち](admin/)
 * [鯖主の蛮行について](admin/ownerinfo.md)
 
@@ -50,10 +64,11 @@ sidebar: true
 * [サーバー用語](other/serverwords.md)
 
 ### リンク集
-* [X](https://x.com/kinoko1216)
-* [Discord](https://discord.gg/Rf5xP5JptK)
+* [鯖主のX](https://x.com/kinoko1216)
+* [Discord - 🍄きのこサーバー🍄](https://discord.gg/Rf5xP5JptK)
 * [クラフターズコロニー](https://minecraft-mcworld.com/19072/)
 * [公式seesaaWiki](https://seesaawiki.jp/kinokoserver2/)
+* [MinePortal](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
 
 <!--
 ---
