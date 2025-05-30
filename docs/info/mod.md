@@ -39,5 +39,6 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 
 ## 禁止Mod名
 - Feather Client
+- Badlion Client（運営内会議の結果次第）
 - Litematica
 - その他、チート・ハッキングを可能とするMod・クライアント
