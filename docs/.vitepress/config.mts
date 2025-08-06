@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "KinokoServer2",
-  base: '/',
+  base: '/wiki/',
   description: "Minecraft java and BE edition server",
   lang: 'ja-JP',
   head: [['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/183390514?s=200&v=4' }]], // URLだとcdnが切れる？
