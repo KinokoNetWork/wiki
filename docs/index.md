@@ -33,7 +33,7 @@ sidebar: true
 
 ### サーバー種類
 * [🍀ロビーサーバー](server/lobby)
-* [📉ライフサーバー](server/life/)
+* [📉ライフサーバー](lifeserver/)
 * [🥪サバイバルサーバー](server/survival/)
 * [🎮ミニゲームサーバー](server/minigame)
 * [🧱サンドボックスサーバー](server/sandbox)
