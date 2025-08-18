@@ -7,13 +7,6 @@ sidebar: true
 ::: details 目次
 [[toc]]
 :::
-
-## KinokoManagerの更新について
-詳しくは、[KinokoManagerのアプデログ](manager_ver)
-
-## 処罰報告について
-詳しくは、[処罰リストについて](punish_log)
-
 ## サーバーお知らせ内容
 
 ### 2025/04/03 2:15

@@ -60,7 +60,6 @@ sidebar: true
 
 #### その他
 * [サーバーニュース](news/)
-* [処罰リストについて](news/punish_log)
 * [前鯖の話](other/server1.md)
 * [サーバー用語](other/serverwords.md)
 
