@@ -21,5 +21,5 @@ Please find another server.
 Also, regarding Japanese, there are rules for the server, so please check them.<br>
 If you are a human and do not follow the rules, you will be banned from connecting to the server.
 
-https://kinokonetwork.github.io/wiki/tos.html<br>
+https://wiki.kinokoroom.net/tos.html<br>
 https://discord.gg/Rf5xP5JptK
