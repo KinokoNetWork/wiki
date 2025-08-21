@@ -19,6 +19,10 @@ export default defineConfig({
 			label: 'このページ'
     },
 
+    search: {
+      provider: 'local'
+    },
+
     socialLinks: [
       { icon: 'x', link: 'https://x.com/kinoko1216' },
       { icon: 'discord', link: 'https://discord.gg/Rf5xP5JptK' },
