@@ -13,14 +13,6 @@ sidebar: true
 
 また、クリアタイムなどは、Xやmonostagramにて投稿して、サーバーの宣伝お願いします🙏
 
-::: details 運営タイム {open}
-| mcid | アスレ種類 | タイム |
-| --- | --- | --- |
-| [Staff]hage_death | easy | 9秒（限界値） |
-| [Owner]Kinoko_2K | easy | 10秒 |
-
-:::
-
 ## スクリーンショット集
 ![](https://image01.seesaawiki.jp/k/2/kinokoserver2/MZI2Oam4dr.png)
 ![](https://image01.seesaawiki.jp/k/2/kinokoserver2/AVRgZH3bbQ.png)
