@@ -3,8 +3,10 @@ title: MsgBoardについて
 description: MsgBoardは、KinokoNetWork内で開発されている掲示板Pluginです。
 sidebar: true
 ---
+<img src="../images/msgboard_1.png" alt="画像1">
+
 # MsgBoardについて
-::: tips
+::: tip
 原則、鯖主が回答します。
 :::
 
@@ -14,7 +16,12 @@ sidebar: true
 ログイン状態で、鯖主が回答した場合は通知されます。
 
 ※全プレイヤーが確認できるので、ルールに沿った内容で作成してください。MCIDを記入してもいいですが、悪口は避けてください。  
-※まだデバッグ途中なので、バグが出た場合は、皮肉ですがこの掲示板で報告してください。
+※まだデバッグ途中なので、バグが出た場合は、皮肉ですがこの掲示板で報告してください。  
+
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img src="../images/msgboard_2.png" alt="画像2">
+  <img src="../images/msgboard_3.png" alt="画像3">
+</div>
 
 ## コマンドリスト
 | コマンド | 概要 |
