@@ -3,8 +3,6 @@ title: MsgBoardについて
 description: MsgBoardは、KinokoNetWork内で開発されている掲示板Pluginです。
 sidebar: true
 ---
-<img src="../images/msgboard_1.png" alt="msgboard_1">
-
 # MsgBoardについて
 ::: tip
 原則、鯖主が回答します。
