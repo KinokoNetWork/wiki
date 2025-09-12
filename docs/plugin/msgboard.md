@@ -3,7 +3,7 @@ title: MsgBoardについて
 description: MsgBoardは、KinokoNetWork内で開発されている掲示板Pluginです。
 sidebar: true
 ---
-<img src="../images/msgboard_1.png" alt="画像1">
+<img src="../images/msgboard_1.png" alt="msgboard_1">
 
 # MsgBoardについて
 ::: tip
@@ -19,8 +19,8 @@ sidebar: true
 ※まだデバッグ途中なので、バグが出た場合は、皮肉ですがこの掲示板で報告してください。  
 
 <div style="display: flex; gap: 10px; margin-top: 10px;">
-  <img src="../images/msgboard_2.png" alt="画像2">
-  <img src="../images/msgboard_3.png" alt="画像3">
+  <img src="../images/msgboard_2.png" alt="msgboard_2">
+  <img src="../images/msgboard_3.png" alt="msgboard_3">
 </div>
 
 ## コマンドリスト
