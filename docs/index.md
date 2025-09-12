@@ -63,6 +63,7 @@ sidebar: true
 * [CoreProtect（バックアップのやつ）](plugin/coreprotect)
 * [Playtimes（プレイ時間を表示するPlugin）](plugin/playtimes)
 * [VoteSystem（投票Plugin）](plugin/votesystem)
+* [MsgBoard（掲示板Plugin）](plugin/msgboard)
 
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
