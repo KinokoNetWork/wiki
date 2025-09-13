@@ -11,10 +11,7 @@ sidebar: true
 
 ## 運営用Prefix
 * `[Admin]`
-  * Administratorの省略形である。運営の中でも、一番上の立場。
-
-* `[Dev]`
-  * Developerの省略形である。運営の中で、開発を主に担当している人。
+  * Administratorの省略形である。
 
 * `[Staff]`
   * 運営の中で、プレイヤーサポートやお問い合わせを担当している人。
