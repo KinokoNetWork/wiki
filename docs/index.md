@@ -84,7 +84,7 @@ sidebar: true
 * [公式seesaaWiki（別Wiki）](https://seesaawiki.jp/kinokoserver2/)
 * [MinePortal（投票サイト）](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
 
-※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。<br>
+※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。  
 ※MinecraftはMojangの登録商標です。
 
 
