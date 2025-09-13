@@ -24,7 +24,7 @@ MineIdea（外部サービス）に、運営募集要項が記載されており
 | 権限 | ユーザ名 | MCID | 運営加入日 | メモ |
 | --- | --- | --- | --- | --- |
 | Owner | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/>[Kinoko_2K](ownerinfo) | 2024/08/18 | Owner兼Developer |
-| Builder, Staff | hage | <img src="https://minotar.net/avatar/hage_death.png" width="32"/>hagehagenanndesu | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
+| Builder, Staff | hage | <img src="https://minotar.net/avatar/hagenanndesu.png" width="32"/>hagenanndesu | 2025/01/12 | 運営管理者兼Wiki編集兼サーバー監視兼建築担当兼Plugin翻訳担当 |
 
 ### 運営メンバーだった人
 運営を辞職した人は、`6人`います。
