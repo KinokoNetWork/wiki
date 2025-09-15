@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import mdmultimdtable from 'markdown-it-multimd-table';
-import mditscroll from 'markdown-it-scrolltable';
+import markdownItScrollTable from 'markdown-it-scrolltable';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -44,7 +44,7 @@ export default defineConfig({
         multibody: true,
         aotolabel: true
 			});
-			markdown.use(mditscroll);
+			markdown.use(markdownItScrollTable);
 		},
   }
 })
