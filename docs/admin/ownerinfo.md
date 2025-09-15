@@ -8,8 +8,7 @@ sidebar: true
 | --- | --- | --- | --- |
 | 鯖主 | きのこ(@kinoko1216) | <img src="https://minotar.net/avatar/Kinoko_2K.png" width="32"/> | Kinoko_2K |
 
-一言で言ったら、長身。(192cm)<br>
-ネットだと、そこら辺にいる。<br>
+ネットだと、そこら辺にいる。
 
 ## 作成したもの
 - PlayerIPManager (Lobby, Survival, Life, Debug)
