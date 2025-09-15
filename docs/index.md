@@ -46,6 +46,7 @@ sidebar: true
 * [🍀ロビーサーバー](server/lobby)
 * [📉ライフサーバー](lifeserver/)
 * [🥪サバイバルサーバー](server/survival/)
+  * [サバイバル鯖 - トラップタワーについて](info/trap)
 * [🎮ミニゲームサーバー](server/minigame)
 * [🧱サンドボックスサーバー](server/sandbox)
 
@@ -68,7 +69,7 @@ sidebar: true
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
 * [運営登用規約](admin/adpolicy_employ)
-* [運営募集について](admin/recruit.md)
+* <s>[運営募集について](admin/recruit.md)</s>
 * [鯖を支える運営メンバー](admin/)
 
 #### その他
@@ -79,11 +80,11 @@ sidebar: true
 * [Wikiの編集について](other/wikiedit)
 
 ### リンク集
-* [鯖主のX(Twitter)](https://x.com/kinoko1216)
+* [鯖主のX（Twitter）](https://x.com/kinoko1216)
 * [Discord - 🍄きのこサーバー🍄](https://discord.gg/Rf5xP5JptK)
 * [クラフターズコロニー（掲示板）](https://minecraft-mcworld.com/19072/)
-* [公式seesaaWiki（別Wiki）](https://seesaawiki.jp/kinokoserver2/)
 * [MinePortal（投票サイト）](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
+* [Minecraft.JP（投票サイト）](https://minecraft.jp/servers/play.kinokoroom.net)
 
 ※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。  
 ※MinecraftはMojangの登録商標です。

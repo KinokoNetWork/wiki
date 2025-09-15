@@ -1,0 +1,8 @@
+.markdown-table-wrapper {
+    overflow-x: auto;
+}
+
+table {
+    white-space: nowrap;
+    -webkit-overflow-scrolling: auto;
+}

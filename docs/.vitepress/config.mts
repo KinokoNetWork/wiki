@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import markdownit from 'markdown-it'
+import mdmultimdtable from 'markdown-it-multimd-table';
+import markdownItScrollTable from 'markdown-it-scrolltable';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,7 +9,8 @@ export default defineConfig({
   base: '/',
   description: "Minecraft java and BE edition server",
   lang: 'ja-JP',
-  head: [['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/183390514?s=200&v=4' }]], // URLだとcdnが切れる？
+  head: [
+    ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/183390514?s=200&v=4' }]], // URLだとcdnが切れる？
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -33,4 +37,17 @@ export default defineConfig({
       pattern: 'https://github.com/KinokoNetWork/wiki/edit/main/docs/:path'
     }
   },
+
+  markdown: {
+    config: (markdown) => {
+      markdown.use(mdmultimdtable, {
+        rowspan: true,
+        headerless: true,
+        multibody: true,
+        aotolabel: true
+      });
+      markdown.use(markdownItScrollTable);
+    },
+  }
 })
+
