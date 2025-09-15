@@ -11,15 +11,33 @@ sidebar: true
 一言で言ったら、長身。(192cm)<br>
 ネットだと、そこら辺にいる。<br>
 
-## Q.何の仕事してるの？
-- Plugin開発（これが90%）
-- おしゃべり（これは9%）
+## 作成したもの
+- PlayerIPManager (Lobby, Survival, Life, Debug)
+- HonorSystem (Lobby, Survival)
+- [LobbyManager](../plugin/manager) (Lobby)
+- AthleticSystem (Lobby)
+- [SurvivalManager](../plugin/manager) (Survival)
+- KinokoArchivements (Survival)
+- [MissionManager](../plugin/manager) (Survival)
+- [MsgBoardSystem](../plugin/msgboard) (Survival)
+- [LifeManager](../plugin/manager) (Life)
+- TutorialSystem (Life)
+- PlayerReputation (Life)
+- UserManager (Life)
+- PlayerDataManagerAPI  (Life)
+- ScoreManager (Life)
+- EcoMenuSystem (Life)
+- JudgeSystem (Life)
+- KinokoKun (Life)
+- KinokoCustomItems (Life)
+- DebugManager (Debug)
+- FarmSystem (Debug)
+- KinokoObserver (bot)
 
 ## Q.なんかVCでしゃべってるけど
-夜21時ぐらいに、DiscordVCに出現します。<br>
+夜22時ぐらいに、DiscordVCに出現します。<br>
 恐らくステータス欄には、VALORANTやMinecraftが表示しているでしょう。
 
-VALORANTでは、一生沼っているブロンズ帯で叫んでいたり、<br>
 Minecraftでは、クラフターズコロニーのJE配布マップを、鯖民と遊んでいます。
 
 ## Q.質問したい
@@ -34,4 +52,3 @@ Minecraftでは、クラフターズコロニーのJE配布マップを、鯖民
 | Discord | [@kinoko1216](https://discord.com/users/925245386568896564) |
 | GitHub | [@kinoko2k](https://github.com/kinoko2k) |
 | note | [@kinoko1216](https://note.com/kinoko1216) |
-| 読書メーター | [@panda](https://bookmeter.com/users/1402914) |
