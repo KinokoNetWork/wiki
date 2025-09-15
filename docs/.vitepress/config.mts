@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import markdownit from 'markdown-it'
 import mdmultimdtable from 'markdown-it-multimd-table';
 import markdownItScrollTable from 'markdown-it-scrolltable';
 
@@ -48,3 +49,4 @@ export default defineConfig({
 		},
   }
 })
+
