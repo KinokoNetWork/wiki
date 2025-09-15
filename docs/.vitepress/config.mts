@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import mdmultimdtable from 'markdown-it-multimd-table';
+import mditscroll from 'markdown-it-scrolltable';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -33,4 +35,16 @@ export default defineConfig({
       pattern: 'https://github.com/KinokoNetWork/wiki/edit/main/docs/:path'
     }
   },
+
+	markdown: {
+		config: (markdown) => {
+			markdown.use(mdmultimdtable, {
+				rowspan: true,
+        headerless: true,
+        multibody: true,
+        aotolabel: true
+			});
+			markdown.use(mditscroll);
+		},
+  }
 })
