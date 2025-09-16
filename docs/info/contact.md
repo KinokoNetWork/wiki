@@ -54,5 +54,3 @@ https://discord.gg/Rf5xP5JptK
 2. サーバー管理者のDM（許可が必要）
 3. お問い合わせチャンネル（全員可能）
 4. お問い合わせURL（全員可能）
-
-![お問い合わせ表示](https://media.discordapp.net/attachments/1274694058488369162/1349761767785496699/image.png?ex=67d4efda&is=67d39e5a&hm=298ce2cb56cbf58baea24d23462c5a9a02952278d53ea601a7cc1ca82817bab7&=&format=webp&quality=lossless)

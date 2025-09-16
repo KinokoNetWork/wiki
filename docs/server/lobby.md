@@ -8,13 +8,20 @@ sidebar: true
 
 『**森**』をイメージした、建築が多く見られます。
 
+## サーバー移動
+`/server <サーバー名>`または、`/<サーバー名>`で、サーバー移動ができます。
+
+- `/survival`（サバイバルサーバー）
+- `/minigame`（ミニゲームサーバー）
+- `/life`（開発用サーバー）
+- `/debug`（開発用サーバー）
+
 ## アスレチック
 「**簡単なアスレチック**」と「**難しいアスレチック**」が用意されています。暇があったら挑戦しましょう。
 
 また、クリアタイムなどは、Xやmonostagramにて投稿して、サーバーの宣伝お願いします🙏
 
 ## スクリーンショット集
-![](https://image01.seesaawiki.jp/k/2/kinokoserver2/MZI2Oam4dr.png)
-![](https://image01.seesaawiki.jp/k/2/kinokoserver2/AVRgZH3bbQ.png)
-![](https://image02.seesaawiki.jp/k/2/kinokoserver2/p4H1QxNdCK.png)
-
+![](../images/lobby_1.png)
+![](../images/lobby_2.png)
+![](../images/lobby_3.png)
