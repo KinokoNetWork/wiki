@@ -31,7 +31,7 @@ sidebar: true
 
 ## ページ集
 ### 原点
-* [メインページ](index.md)
+* [🏠メインページ](index.md)
 * [📌利用規約など](tos.md)
 * [🌐For Visitors](visitors.md)
 
@@ -41,13 +41,14 @@ sidebar: true
 * [✅許可Mod](info/mod.md)
 * [📮投票について](info/vote.md)
 * [📸動画撮影・SNS共有について](info/sns.md)
+* [💭Discordについて](info/discord.md)
 * [📩お問い合わせ](info/contact.md)
 
 ### サーバー種類
 * [🍀ロビーサーバー](server/lobby)
 * [📉ライフサーバー](lifeserver/)
 * [🥪サバイバルサーバー](server/survival/)
-  * [サバイバル鯖 - トラップタワーについて](info/trap)
+  * [👻サバイバル鯖 - トラップタワーについて](info/trap)
 * [🎮ミニゲームサーバー](server/minigame)
 * [🧱サンドボックスサーバー](server/sandbox)
 
