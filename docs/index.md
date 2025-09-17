@@ -40,8 +40,8 @@ sidebar: true
 * [❓よくある質問](info/qa.md)
 * [✅許可Mod](info/mod.md)
 * [📮投票について](info/vote.md)
-* [📸動画撮影・SNS共有について](info/sns.md)
 * [💭Discordについて](info/discord.md)
+* [📸動画撮影・SNS共有について](info/sns.md)
 * [📩お問い合わせ](info/contact.md)
 
 ### サーバー種類
