@@ -1,15 +1,37 @@
-name: Auto Assign and Review
+# PRのAssigneesを自動的に設定する https://qiita.com/sakataku1991/items/dc5499ea885355aa8712
+name: Auto Assign PR Assignees
 
 on:
+  # このワークフローをトリガーするイベント
   pull_request:
-    types: [opened]
+    # opened:           PRが新たに作成された時
+    # ready_for_review: PRの状態がDraftからOpenに変更された時
+    types: [opened, ready_for_review]
 
 jobs:
-  add-reviewer-and-assignee:
+  add-assignees:
+    # Ubuntuの最新バージョンでこのジョブを実行する
     runs-on: ubuntu-latest
+
+    # GITHUB_TOKENの権限の設定
+    # このワークフローがPRを操作するのに権限設定が必要
+    permissions:
+      pull-requests: write
+      repository-projects: read
+
+    # 何らかのエラーによりジョブが完了しないケースに備えてタイムアウトを設定している
+    # ※デフォルトの最大実行時間は360分（6時間）とのこと
+    # NOTE: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idtimeout-minutes
+    timeout-minutes: 3
+
+    # Dependabotなどのbotではなく、かつ、Assigneesが設定されていない場合にのみこのジョブを実行する
+    if: endsWith(github.actor, '[bot]') == false && github.event.pull_request.assignee == null
+
+    # PRの作成者自身がそのPRのAssigneesに自動割り当てされるようにする
     steps:
-      - name: Assign and request review
-        uses: actions-ecosystem/action-add-assignees@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          assignees: kinoko2k
+      - name: Auto Assign PR Assignees
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: gh pr edit ${{ github.event.number }} --add-assignee ${{ github.actor }}
+
