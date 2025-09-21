@@ -55,3 +55,4 @@ sidebar: true
   - 2025年3月29日 : Minigame「[BowAttack](<https://github.com/kinoko2k/BowAttack>)」が公開される。
   - 2025年4月1日 : 鯖主の休暇により代理管理者が運営を行う。
   - 2025年4月13日 : 鯖主が復帰。
+  - 2025年9月22日 : プレイヤー情報が閲覧できるサイトが公開される。

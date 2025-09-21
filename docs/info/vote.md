@@ -18,4 +18,5 @@ Wikiに説明が記載される予定です。お待ちください。
 - MinePortalサーバーリスト → https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j
 - Minecraft.jpサーバーリスト → https://minecraft.jp/servers/kinoko.ddns.net
 
-ログインしている方は、上記のURLから投票が可能です。
+ログインしている方は、上記のURLから投票が可能です。<br>
+投票すると、Discordの`#サバイバルチャット`に通知されます。
