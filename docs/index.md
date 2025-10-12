@@ -6,12 +6,9 @@ sidebar: true
 
 # 🍄初めての方へ🍄
 ::: danger ❏IPアドレス変更のお知らせ
-> ▶現在のアドレス：`kinoko.ddns.net`
+> ▶新規のアドレス：`play.kinokoroom.net`
 
-> ▶新規のアドレス：`play.kinokoroom.net` または `kinokoroom.net`
-
-9月末には、旧アドレスの接続が不安定になるので、新アドレスに切り替えるようにお願いします。  
-新規のアドレスは、現在使用できるので、随時変更をお願いします。
+10月末には、旧アドレスの接続ができなくなるので、新アドレスに切り替えるようにお願いします。  
 :::
 
 見てくれてありがとうございます。このサイトは、KinokoServer2:mushroom:についてのことが書かれたいわゆる「Wiki」みたいなものです。
@@ -82,37 +79,12 @@ sidebar: true
 ### リンク集
 * [鯖主のX（Twitter）](https://x.com/kinoko1216)
 * [Discord - 🍄きのこサーバー🍄](https://discord.gg/Rf5xP5JptK)
+* [KinokoServer2 プレイヤー統計情報](https://mcstats.kinokoroom.net/)
 * [クラフターズコロニー（掲示板）](https://minecraft-mcworld.com/19072/)
 * [MinePortal（投票サイト）](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
 * [Minecraft.JP（投票サイト）](https://minecraft.jp/servers/play.kinokoroom.net)
+* [form.run（お問い合わせフォーム）](https://form.run/@kinokonetwork)
+* [GitHub - KinokoNetWork](https://github.com/KinokoNetWork)
 
 ※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。  
 ※MinecraftはMojangの登録商標です。
-
-
-<!--
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "KinokoServer2"
-  text: "Minecraft java and BE edition server"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: ここの強みは[遊んで学べる]所！
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
--->

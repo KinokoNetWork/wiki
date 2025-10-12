@@ -36,6 +36,7 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - ミニマップMod
 - サーバーに負荷を与えるMod
 - 設計図Mod
+- その他、KinokoNetWorkが不適切と判断したMod
 
 ## 禁止Mod名
 - Feather Client
