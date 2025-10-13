@@ -76,7 +76,7 @@ https://forum.kinokoroom.net/
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
 * [運営登用規約](admin/adpolicy_employ)
-* [※現在、運営募集は停止しています。（<s>運営募集について</s>）](admin/recruit.md)
+* [運営募集について](admin/recruit.md)
 * [鯖を支える運営メンバー](admin/)
 
 #### その他
