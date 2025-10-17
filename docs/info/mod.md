@@ -26,6 +26,8 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
   - Fabric API
   - Sodium
   - Iris Shaders
+  - Mod Menu
+  - AppleSkin
 
 ## 禁止Modジャンル
 - リプレイMod
