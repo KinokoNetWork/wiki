@@ -19,15 +19,28 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - 以下の許可Modを導入する際に、必須である前提Modなど
 
 ## 許可Mod名
-- Minecraft Forge
-- OptiFine
+| Mod名 || 説明 |  |
+|---|---|---|
+| Minecraft Forge | Forge | MinecraftのModを導入するための前提Mod |
+|^^        | Optifine | Minecraftのパフォーマンスを向上させるMod |
 
-- Fabric
-  - Fabric API
-  - Sodium
-  - Iris Shaders
-  - Mod Menu
-  - AppleSkin
+<br>
+
+| Mod名 || 説明 |  |
+|---|---|---|
+| Fabric | Fabric | MinecraftのModを導入するための前提Mod |
+|^^        | Fabric API | FabricのModを動作させるための前提Mod |
+|^^        | Sodium | Minecraftのパフォーマンスを向上させるMod |
+|^^        | Iris Shaders | シェーダーを導入するためのMod |
+|^^        | Mod Menu | Modリストを見るためのMod |
+|^^        | AppleSkin | 食料の満腹度や回復量を表示するMod |
+|^^       | Armor Durability HUD | 防具の耐久度を表示するMod |
+|^^       | Just Enough Items (JEI) | アイテムのレシピや情報を表示するMod |
+|^^       | Better Advancements | 進捗をより見やすく表示するMod |
+|^^       | caramelChat | 日本語入力を補助するMod |
+|^^       | CocoaInput | 看板・チャットへの日本語入力を補助するMod |
+|^^       | Chat Heads | チャットにプレイヤーの顔を表示するMod |
+|^^       | Chat Notify | メッセージが送信されたときに音を鳴らすMod |
 
 ## 禁止Modジャンル
 - リプレイMod
@@ -44,4 +57,8 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - Feather Client
 - Badlion Client
 - Litematica
+- Modern UI
+- Replay Mod
+- Fzzy Config
+- Subtle Effects
 - その他、チート・ハッキングを可能とするMod・クライアント
