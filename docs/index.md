@@ -46,6 +46,7 @@ https://forum.kinokoroom.net/
 * [📮投票について](info/vote.md)
 * [💭Discordについて](info/discord.md)
 * [📸動画撮影・SNS共有について](info/sns.md)
+* [⚖️処罰判例と対応方針について](info/precedent.md)
 * [📩お問い合わせ](info/contact.md)
 
 ### サーバー種類
