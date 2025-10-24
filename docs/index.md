@@ -88,6 +88,7 @@ https://forum.kinokoroom.net/
 * [Wikiの編集について](other/wikiedit)
 
 ### リンク集
+* [KinokoServer2 公式サイト](https://www.kinokoroom.net/)
 * [鯖主のX（Twitter）](https://x.com/kinoko1216)
 * [Discord - 🍄きのこサーバー🍄](https://discord.gg/Rf5xP5JptK)
 * [KinokoServer2 プレイヤー統計情報](https://mcstats.kinokoroom.net/)
