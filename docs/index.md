@@ -5,20 +5,8 @@ sidebar: true
 ---
 
 # 🍄初めての方へ🍄
-::: danger ❏IPアドレス変更のお知らせ
-> ▶新規のアドレス：`play.kinokoroom.net`
-
-10月末には、旧アドレスの接続ができなくなるので、新アドレスに切り替えるようにお願いします。  
-:::
-
-::: tip ❏Forumサイトができました。
-サーバー方針、運営について話し合う場として活用する予定です。
-
-ルールは、KinokoNetWork利用規約に基づきます。  
-Discordを使えないプレイヤーでも、使用できます。
-
-「新規登録」から、アカウントを作成すると、メールが送信されます。  
-https://forum.kinokoroom.net/
+::: tip ❏IPアドレス
+`play.kinokoroom.net` または `kinokoroom.net`で参加いただけます。
 :::
 
 見てくれてありがとうございます。このサイトは、KinokoServer2:mushroom:についてのことが書かれたいわゆる「Wiki」みたいなものです。

@@ -28,7 +28,6 @@ jobs:
         run: |
           cat <<EOF > discord.json
           {
-            "content": "Wikiに新しいコミットがありました！",
             "embeds": [
               {
                 "author": {
@@ -36,7 +35,7 @@ jobs:
                   "url": "https://github.com/${{ github.actor }}",
                   "icon_url": "https://github.com/${{ github.actor }}.png"
                 },
-                "title": "[${{ github.repository }}] 新しいコミット",
+                "title": "[${{ github.repository }}]",
                 "url": "${{ github.event.head_commit.url }}",
                 "description": "**コミットメッセージ:**\n\`\`\`\n${{ github.event.head_commit.message }}\n\`\`\`\n**変更されたファイル:**\n${{ env.changed_files }}",
                 "color": 5814783,
