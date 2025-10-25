@@ -1,0 +1,44 @@
+name: Discord Commit Notifier
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Generate changed file list with links
+        id: changed-files
+        run: |
+          echo "changed_files<<EOF" >> $GITHUB_ENV
+          # 変更されたファイル一覧を1行ずつWikiリンク付きで整形
+          git diff --name-only HEAD^ HEAD | while read file; do
+            echo "・[$file](https://wiki.kinokoroom.net/$file)" >> $GITHUB_ENV
+          done
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Send Discord notification
+        uses: tsickert/discord-webhook@v2.0.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          content: "Wikiに新しいコミットがありました！"
+          embed: |
+            {
+              "author": {
+                "name": "${{ github.actor }}",
+                "url": "https://github.com/${{ github.actor }}",
+                "icon_url": "https://github.com/${{ github.actor }}.png"
+              },
+              "title": "[${{ github.repository }}] 新しいコミット",
+              "url": "${{ github.event.head_commit.url }}",
+              "description": "**コミットメッセージ:**\n```\n${{ github.event.head_commit.message }}\n```\n**変更されたファイル:**\n${{ env.changed_files }}",
+              "color": 5814783,
+              "timestamp": "${{ github.event.head_commit.timestamp }}"
+            }
