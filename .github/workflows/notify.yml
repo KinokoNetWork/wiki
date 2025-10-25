@@ -26,28 +26,32 @@ jobs:
 
       - name: Create Discord embed JSON safely
         run: |
-          # 改行とダブルクォーテーションをエスケープ
-          ESCAPED_CHANGED=$(echo "${{ env.changed_files }}" | jq -Rsa .)
-          ESCAPED_MESSAGE=$(echo "${{ github.event.head_commit.message }}" | jq -Rsa .)
+          ESCAPED_CHANGED=$(echo "${{ env.changed_files }}" | jq -Rs .)
+          ESCAPED_MESSAGE=$(echo "${{ github.event.head_commit.message }}" | jq -Rs .)
 
-          cat <<EOF > discord.json
-          {
-            "embeds": [
-              {
-                "author": {
-                  "name": "${{ github.actor }}",
-                  "url": "https://github.com/${{ github.actor }}",
-                  "icon_url": "https://github.com/${{ github.actor }}.png"
-                },
-                "title": "[${{ github.repository }}]",
-                "url": "${{ github.event.head_commit.url }}",
-                "description": "**コミットメッセージ:**\\n\`\`\`\\n" + $ESCAPED_MESSAGE + "\\n\`\`\`\\n**変更されたファイル:**\\n" + $ESCAPED_CHANGED,
-                "color": 5814783,
-                "timestamp": "${{ github.event.head_commit.timestamp }}"
-              }
-            ]
-          }
-          EOF
+          jq -n \
+            --arg author "${{ github.actor }}" \
+            --arg repo "${{ github.repository }}" \
+            --arg url "${{ github.event.head_commit.url }}" \
+            --arg msg "${{ github.event.head_commit.message }}" \
+            --arg changed "${{ env.changed_files }}" \
+            --arg timestamp "${{ github.event.head_commit.timestamp }}" \
+            '{
+              embeds: [
+                {
+                  author: {
+                    name: $author,
+                    url: "https://github.com/" + $author,
+                    icon_url: "https://github.com/" + $author + ".png"
+                  },
+                  title: "[" + $repo + "]",
+                  url: $url,
+                  description: "**コミットメッセージ:**\n```" + $msg + "```\n**変更されたファイル:**\n" + $changed,
+                  color: 5814783,
+                  timestamp: $timestamp
+                }
+              ]
+            }' > discord.json
 
       - name: Send Discord notification
         uses: tsickert/discord-webhook@v2.0.0
