@@ -14,31 +14,40 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Generate changed file list with links
+      - name: Generate changed file list with wiki links (remove docs/)
         id: changed-files
         run: |
           echo "changed_files<<EOF" >> $GITHUB_ENV
-          # 変更されたファイル一覧を1行ずつWikiリンク付きで整形
           git diff --name-only HEAD^ HEAD | while read file; do
-            echo "・[$file](https://wiki.kinokoroom.net/$file)" >> $GITHUB_ENV
+            clean_path=$(echo "$file" | sed 's/^docs\///')
+            echo "・[$clean_path](https://wiki.kinokoroom.net/$clean_path)" >> $GITHUB_ENV
           done
           echo "EOF" >> $GITHUB_ENV
+
+      - name: Create Discord embed JSON
+        run: |
+          cat <<EOF > discord.json
+          {
+            "content": "Wikiに新しいコミットがありました！",
+            "embeds": [
+              {
+                "author": {
+                  "name": "${{ github.actor }}",
+                  "url": "https://github.com/${{ github.actor }}",
+                  "icon_url": "https://github.com/${{ github.actor }}.png"
+                },
+                "title": "[${{ github.repository }}] 新しいコミット",
+                "url": "${{ github.event.head_commit.url }}",
+                "description": "**コミットメッセージ:**\n\`\`\`\n${{ github.event.head_commit.message }}\n\`\`\`\n**変更されたファイル:**\n${{ env.changed_files }}",
+                "color": 5814783,
+                "timestamp": "${{ github.event.head_commit.timestamp }}"
+              }
+            ]
+          }
+          EOF
 
       - name: Send Discord notification
         uses: tsickert/discord-webhook@v2.0.0
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          content: "Wikiに新しいコミットがありました！"
-          embed: |
-            {
-              "author": {
-                "name": "${{ github.actor }}",
-                "url": "https://github.com/${{ github.actor }}",
-                "icon_url": "https://github.com/${{ github.actor }}.png"
-              },
-              "title": "[${{ github.repository }}] 新しいコミット",
-              "url": "${{ github.event.head_commit.url }}",
-              "description": "**コミットメッセージ:**\n```\n${{ github.event.head_commit.message }}\n```\n**変更されたファイル:**\n${{ env.changed_files }}",
-              "color": 5814783,
-              "timestamp": "${{ github.event.head_commit.timestamp }}"
-            }
+          raw-data: discord.json
