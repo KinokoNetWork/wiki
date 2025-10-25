@@ -24,8 +24,12 @@ jobs:
           done
           echo "EOF" >> $GITHUB_ENV
 
-      - name: Create Discord embed JSON
+      - name: Create Discord embed JSON safely
         run: |
+          # 改行とダブルクォーテーションをエスケープ
+          ESCAPED_CHANGED=$(echo "${{ env.changed_files }}" | jq -Rsa .)
+          ESCAPED_MESSAGE=$(echo "${{ github.event.head_commit.message }}" | jq -Rsa .)
+
           cat <<EOF > discord.json
           {
             "embeds": [
@@ -37,7 +41,7 @@ jobs:
                 },
                 "title": "[${{ github.repository }}]",
                 "url": "${{ github.event.head_commit.url }}",
-                "description": "**コミットメッセージ:**\n\`\`\`\n${{ github.event.head_commit.message }}\n\`\`\`\n**変更されたファイル:**\n${{ env.changed_files }}",
+                "description": "**コミットメッセージ:**\\n\`\`\`\\n" + $ESCAPED_MESSAGE + "\\n\`\`\`\\n**変更されたファイル:**\\n" + $ESCAPED_CHANGED,
                 "color": 5814783,
                 "timestamp": "${{ github.event.head_commit.timestamp }}"
               }

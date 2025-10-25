@@ -20,17 +20,17 @@ sidebar: true
 
 ## JAVA版の場合
 1.minecraftのスタート画面にある「マルチプレイヤー」を押し、マルチプレイ一覧画面を開きます。<br>
-![入力方法1](images/login_1.png)<br>
+![Java版 入力方法1](images/login_1.png)<br>
 2.「サーバーの追加」を押し、サーバー編集欄が出てきたらこの様に入力します。(サーバー名の所はなんでも入力して大丈夫です)<br>
-![入力方法2](images/login_2.png)<br>
-![入力方法3](images/login_3.png)<br>
+![Java版 入力方法2](images/login_2.png)<br>
+![Java版 入力方法3](images/login_3.png)<br>
 これを保存し、追加されたサーバーに接続すれば入ることが出来ます。<br>
 
 ## 統合版の場合
 1.プレイ画面を開き、一番右のサーバーの欄を選択します。<br>
 2.左にある「サーバーを追加」を押し、サーバー編集欄が出てきたらこの様に入力します、(サーバー名の所はなんでも入力して大丈夫です)<br>
 
-[![入力方法2](https://i.gyazo.com/2c40351d7142f0fd08c58c26227dd7b1.jpg)](https://gyazo.com/2c40351d7142f0fd08c58c26227dd7b1)
+![統合版 入力方法1](images/login_5.png)
 
 ## スイッチ版の場合
 ちょっと複雑なので、[こちらのサイト（外部サービス）](https://www.radical-dreamer.com/game/minecraft_bedrockconnect/)をご覧ください。
