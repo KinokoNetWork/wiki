@@ -54,7 +54,7 @@ jobs:
             }' > discord.json
 
       - name: Send Discord notification
-        uses: tsickert/discord-webhook@v2.0.0
+        uses: tsickert/discord-webhook@v2.0.2
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
           raw-data: discord.json
