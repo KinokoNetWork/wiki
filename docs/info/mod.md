@@ -56,7 +56,7 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 ## 禁止Mod名
 - Feather Client
 - Badlion Client
-- Litematica
+- Litematica（設計図Mod）
 - Modern UI
 - Replay Mod
 - Fzzy Config
