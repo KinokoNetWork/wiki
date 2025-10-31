@@ -25,10 +25,32 @@ jobs:
           echo "EOF" >> $GITHUB_ENV
 
       - name: Create Discord embed JSON safely
+        id: create-json
         run: |
-          ESCAPED_CHANGED=$(echo "${{ env.changed_files }}" | jq -Rs .)
-          ESCAPED_MESSAGE=$(echo "${{ github.event.head_commit.message }}" | jq -Rs .)
+          # changed_filesとcommit messageをjqの引数として渡せるように環境変数に設定
+          # これにより、メッセージ内に特殊文字が含まれていても安全に処理できる
+          cat << 'EOF' > discord.json
+          {
+            "embeds": [
+              {
+                "author": {
+                  "name": "${{ github.actor }}",
+                  "url": "https://github.com/${{ github.actor }}",
+                  "icon_url": "https://github.com/${{ github.actor }}.png"
+                },
+                "title": "[${{ github.repository }}]",
+                "url": "${{ github.event.head_commit.url }}",
+                "description": "**コミットメッセージ:**\n```${{ github.event.head_commit.message }}```\n**変更されたファイル:**\n${{ env.changed_files }}",
+                "color": 5814783,
+                "timestamp": "${{ github.event.head_commit.timestamp }}"
+              }
+            ]
+          }
+          EOF
 
+          # description内の改行文字などをJSONとして正しくエスケープするためにjqで処理する
+          # 1. catでテンプレートJSONを作成
+          # 2. jqで各変数を--argで渡し、JSON内のプレースホルダーを置換する
           jq -n \
             --arg author "${{ github.actor }}" \
             --arg repo "${{ github.repository }}" \
@@ -41,12 +63,12 @@ jobs:
                 {
                   author: {
                     name: $author,
-                    url: "https://github.com/" + $author,
-                    icon_url: "https://github.com/" + $author + ".png"
+                    url: "https://github.com/\($author)",
+                    icon_url: "https://github.com/\($author).png"
                   },
-                  title: "[" + $repo + "]",
+                  title: "[\($repo)]",
                   url: $url,
-                  description: "**コミットメッセージ:**\n```" + $msg + "```\n**変更されたファイル:**\n" + $changed,
+                  description: "**コミットメッセージ:**\n```\($msg)```\n**変更されたファイル:**\n\($changed)",
                   color: 5814783,
                   timestamp: $timestamp
                 }
@@ -57,4 +79,4 @@ jobs:
         uses: tsickert/discord-webhook@v7.0.0
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          raw-data: discord.json
+          raw-data: file://discord.json
