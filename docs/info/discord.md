@@ -79,8 +79,6 @@ https://discord.gg/Rf5xP5JptK
 ┣ #test-log
 ┗ #deltest-log
 
-🐛バグ報告🐛
-
 📮お問い合わせ📮
 ```
 
