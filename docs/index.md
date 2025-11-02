@@ -48,7 +48,7 @@ sidebar: true
 * [📉ライフサーバー](lifeserver/)
 * [🥪サバイバルサーバー](server/survival/)
   * [👻サバイバル鯖 - トラップタワーについて](info/trap)
-* [🌟サバイバル＋サーバー](server/survival_plus)
+* [🌟サバイバル＋サーバー](server/survival_plus/)
 * [🎮ミニゲームサーバー](server/minigame)
 * [🛠️ハイパーウルトララスーパーサーバー](server/hyperultrasuper)
 * [🧱サンドボックスサーバー](server/sandbox)
