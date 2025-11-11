@@ -1,0 +1,82 @@
+name: Discord Commit Notifier
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Generate changed file list with wiki links (remove docs/)
+        id: changed-files
+        run: |
+          echo "changed_files<<EOF" >> $GITHUB_ENV
+          git diff --name-only HEAD^ HEAD | while read file; do
+            clean_path=$(echo "$file" | sed 's/^docs\///')
+            echo "・[$clean_path](https://wiki.kinokoroom.net/$clean_path)" >> $GITHUB_ENV
+          done
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Create Discord embed JSON safely
+        id: create-json
+        run: |
+          # changed_filesとcommit messageをjqの引数として渡せるように環境変数に設定
+          # これにより、メッセージ内に特殊文字が含まれていても安全に処理できる
+          cat << 'EOF' > discord.json
+          {
+            "embeds": [
+              {
+                "author": {
+                  "name": "${{ github.actor }}",
+                  "url": "https://github.com/${{ github.actor }}",
+                  "icon_url": "https://github.com/${{ github.actor }}.png"
+                },
+                "title": "[${{ github.repository }}]",
+                "url": "${{ github.event.head_commit.url }}",
+                "description": "**コミットメッセージ:**\n```${{ github.event.head_commit.message }}```\n**変更されたファイル:**\n${{ env.changed_files }}",
+                "color": 5814783,
+                "timestamp": "${{ github.event.head_commit.timestamp }}"
+              }
+            ]
+          }
+          EOF
+
+          # description内の改行文字などをJSONとして正しくエスケープするためにjqで処理する
+          # 1. catでテンプレートJSONを作成
+          # 2. jqで各変数を--argで渡し、JSON内のプレースホルダーを置換する
+          jq -n \
+            --arg author "${{ github.actor }}" \
+            --arg repo "${{ github.repository }}" \
+            --arg url "${{ github.event.head_commit.url }}" \
+            --arg msg "${{ github.event.head_commit.message }}" \
+            --arg changed "${{ env.changed_files }}" \
+            --arg timestamp "${{ github.event.head_commit.timestamp }}" \
+            '{
+              embeds: [
+                {
+                  author: {
+                    name: $author,
+                    url: "https://github.com/\($author)",
+                    icon_url: "https://github.com/\($author).png"
+                  },
+                  title: "[\($repo)]",
+                  url: $url,
+                  description: "**コミットメッセージ:**\n```\($msg)```\n**変更されたファイル:**\n\($changed)",
+                  color: 5814783,
+                  timestamp: $timestamp
+                }
+              ]
+            }' > discord.json
+
+      - name: Send Discord notification
+        uses: tsickert/discord-webhook@v7.0.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          raw-data: file://discord.json

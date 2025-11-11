@@ -5,16 +5,14 @@ sidebar: true
 ---
 
 # 🍄初めての方へ🍄
-::: danger ❏IPアドレス変更のお知らせ
-サーバーアドレスに接続できない問題を解消するため、  
-**10月付で、Minecraftサーバー接続時のサーバーアドレスを変更**する予定です。  
+::: tip ❏IPアドレス
+`play.kinokoroom.net` または `kinokoroom.net`で参加いただけます。
+:::
 
-> ▶現在のアドレス：`kinoko.ddns.net`
-
-> ▶新規のアドレス：`play.kinokoroom.net` または `kinokoroom.net`
-
-変更後の**10月以降**は、`kinoko.ddns.net`を使用し、サーバーに接続することが、<u>**できなくなる可能性**が高い</u>です。  
-新規のアドレスは、現在使用できるので、随時変更をお願いします。
+::: danger ❏設計図Modは使用禁止です。
+設計図Modを使用する示唆などが、確認されています。<br>
+サーバー内での、設計図Mod（Litematica）の使用は禁止されています。<br>
+発覚した場合、処罰対象となりますので、ご注意ください。
 :::
 
 見てくれてありがとうございます。このサイトは、KinokoServer2:mushroom:についてのことが書かれたいわゆる「Wiki」みたいなものです。
@@ -42,6 +40,7 @@ sidebar: true
 * [📮投票について](info/vote.md)
 * [💭Discordについて](info/discord.md)
 * [📸動画撮影・SNS共有について](info/sns.md)
+* [⚖️処罰判例と対応方針について](info/precedent.md)
 * [📩お問い合わせ](info/contact.md)
 
 ### サーバー種類
@@ -49,7 +48,9 @@ sidebar: true
 * [📉ライフサーバー](lifeserver/)
 * [🥪サバイバルサーバー](server/survival/)
   * [👻サバイバル鯖 - トラップタワーについて](info/trap)
+* [🌟サバイバル＋サーバー](server/survival_plus/)
 * [🎮ミニゲームサーバー](server/minigame)
+* [🛠️ハイパーウルトララスーパーサーバー](server/hyperultrasuper)
 * [🧱サンドボックスサーバー](server/sandbox)
 
 ### 見てて楽しいページ
@@ -71,7 +72,7 @@ sidebar: true
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
 * [運営登用規約](admin/adpolicy_employ)
-* <s>[運営募集について](admin/recruit.md)</s>
+* [運営募集について](admin/recruit.md)
 * [鯖を支える運営メンバー](admin/)
 
 #### その他
@@ -82,39 +83,15 @@ sidebar: true
 * [Wikiの編集について](other/wikiedit)
 
 ### リンク集
+* [KinokoServer2 公式サイト](https://www.kinokoroom.net/)
 * [鯖主のX（Twitter）](https://x.com/kinoko1216)
 * [Discord - 🍄きのこサーバー🍄](https://discord.gg/Rf5xP5JptK)
+* [KinokoServer2 プレイヤー統計情報](https://mcstats.kinokoroom.net/)
 * [クラフターズコロニー（掲示板）](https://minecraft-mcworld.com/19072/)
 * [MinePortal（投票サイト）](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)
 * [Minecraft.JP（投票サイト）](https://minecraft.jp/servers/play.kinokoroom.net)
+* [form.run（お問い合わせフォーム）](https://form.run/@kinokonetwork)
+* [GitHub - KinokoNetWork](https://github.com/KinokoNetWork)
 
 ※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。  
 ※MinecraftはMojangの登録商標です。
-
-
-<!--
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "KinokoServer2"
-  text: "Minecraft java and BE edition server"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: ここの強みは[遊んで学べる]所！
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
--->

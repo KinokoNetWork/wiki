@@ -44,11 +44,12 @@ Discordでは、荒らし対策として、複数のBotを使用し、メッセ�
 | papanda5690 | 不審なアカウントと判断したため |
 | badlands___ | 不審なアカウントと判断したため |
 | sashimi1965 | 不審なアカウントと判断したため |
-| salmon6451 | griefing | |
-| wasabi058433 | griefing | |
-| taku5696. | 不審なアカウントと判断したため | |
-| aieieu | griefing | |
-| tanto0103 | 不審なアカウントと判断したため | |
+| salmon6451 | griefing |
+| wasabi058433 | griefing |
+| taku5696. | 不審なアカウントと判断したため |
+| aieieu | griefing |
+| tanto0103 | 不審なアカウントと判断したため |
+| invanxko_976 | 詐欺URLの送信 |
 :::
 
 ## Minecraftサーバーに入れない方
@@ -74,6 +75,7 @@ KinokoServer2に参加できないプレイヤーは、当鯖のルールまた�
 | survival | bEmayorasimoi | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為 |
 | survival | bEsanoR0621 | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為 |
 | survival | bEIkuraUmai2 | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為 |
+| survival | [Sizuku_MC](https://mcstats.kinokoroom.net/users/1b1d95f5-5810-40e5-8f01-d6ebeef19ef3) | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為, 使用禁止Modを使用、または示唆する行為, 当サービスを使用して、他コミュニティの宣伝や勧誘を行う行為, 当サービスに対して、コンテンツを利用して負荷をかける行為、または示唆する行為, ルール違反や運営の仕事妨害を、助長したり示唆する行為 |
 :::
 
 ## KinokoServer2以外のマイクラサーバーで入れない方

@@ -47,11 +47,16 @@ sidebar: true
   - 2024年6月3日 : KinokoServer1終了
 
 - KinokoServer2
-  - 2024年8月18日 : Discordサーバが作成される。
-  - 2024年12月30日 : Minecraftサーバが作成される。
-  - 2025年1月7日 : Discordサーバが公開される。
-  - 2025年1月25日 : Survivalサーバが作成される。
+  - 2024年8月18日 : Discordサーバーが作成される。
+  - 2024年12月30日 : Minecraftサーバーが作成される。
+  - 2025年1月7日 : Discordサーバーが公開される。
+  - 2025年1月25日 : Survivalサーバーが作成される。
+  - 2025年3月2日 : Minecraftサーバーが公開される。
   - 2025年3月15日 : Discordアイコンが名古屋城になる。
   - 2025年3月29日 : Minigame「[BowAttack](<https://github.com/kinoko2k/BowAttack>)」が公開される。
   - 2025年4月1日 : 鯖主の休暇により代理管理者が運営を行う。
   - 2025年4月13日 : 鯖主が復帰。
+  - 2025年8月18日 : KinokoServer2 Discordサーバー1周年
+  - 2025年9月22日 : プレイヤー情報が閲覧できるサイトが公開される。
+  - 2025年10月1日 : IPアドレスが変更される。
+  - 2025年10月5日 : HyperUltraSuperServerが公開される。

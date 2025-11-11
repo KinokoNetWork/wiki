@@ -71,7 +71,6 @@ https://discord.gg/Rf5xP5JptK
 ┗ #discord-qa
 
 ┏ 👑管理者👑
-┣ #🤖｜運営用ch
 ┣ #discord-announce
 ┣ #logs
 ┣ #modlogs
@@ -79,8 +78,6 @@ https://discord.gg/Rf5xP5JptK
 ┣ #save
 ┣ #test-log
 ┗ #deltest-log
-
-🐛バグ報告🐛
 
 📮お問い合わせ📮
 ```
