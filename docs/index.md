@@ -9,12 +9,6 @@ sidebar: true
 `play.kinokoroom.net` または `kinokoroom.net`で参加いただけます。
 :::
 
-::: danger ❏設計図Modは使用禁止です。
-設計図Modを使用する示唆などが、確認されています。<br>
-サーバー内での、設計図Mod（Litematica）の使用は禁止されています。<br>
-発覚した場合、処罰対象となりますので、ご注意ください。
-:::
-
 見てくれてありがとうございます。このサイトは、KinokoServer2:mushroom:についてのことが書かれたいわゆる「Wiki」みたいなものです。
 
 不明点があれば、[お問い合わせ](info/contact.md)までお願いします。
