@@ -53,7 +53,7 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - 設計図Mod
 - その他、KinokoNetWorkが不適切と判断したMod
 
-## 禁止Mod名
+## 禁止Mod、クライアント名
 - Feather Client
 - Badlion Client
 - Litematica（設計図Mod）
