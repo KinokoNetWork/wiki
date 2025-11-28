@@ -17,15 +17,16 @@ LWCは、チェストやドアに保護をつけることができ、自分の�
 ## コマンド一覧
 | コマンド | 概要 |
 | ------- | ---- |
-| /cprivate | 個人保護にします。 |
-| /cpublic | 共有保護にします。 |
-| /cdonation | 寄付保護にします。 |
-| /csupply | 提供保護にします。 |
-| /cpassword [password] | パスワード保護にします。 |
-| /cmodify [private/public/donation/supply..] | 個人保護から別の設定に変更します。 |
-| /cunlock [password] | パスワード保護を解除します。 |
-| /cinfo | 保護の情報を表示します。 |
-| /cremove | 保護を削除します。 |
+| `/cprivate` | 個人保護にします。 |
+| `/cpublic` | 共有保護にします。 |
+| `/cdonation` | 寄付保護にします。 |
+| `/csupply` | 提供保護にします。 |
+| `/cpassword [password]` | パスワード保護にします。 |
+| `/cmodify [private/public/donation/supply..]` | 個人保護から別の設定に変更します。 |
+| `/cunlock [password]` | パスワード保護を解除します。 |
+| `/climits` | 自分が保護できるチェスト数を表示します。 |
+| `/cinfo` | 保護の情報を表示します。 |
+| `/cremove` | 保護を削除します。 |
 
-## バグ
+## 不具合
 エンドワールドで、チェスト保護がかからないバグを発見しております。
