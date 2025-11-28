@@ -92,7 +92,7 @@ Discordに入れない方は、form.run（外部サービス）から可能で�
 
 ### Q. ハイパーウルトラスーパーサーバーって何ですか？
 #### A. 鯖主が何のPluginを入れたか忘れたほどいろいろ入ってるカオスサーバーです。
-[🔍ハイパーウルトラスーパーサーバー](../server/hyperultrasuper)
+[🔍ハイパーウルトラスーパーサーバー](../archive/hyperultrasuper)
 
 ### Q. KinokoTeamsって何ですか？
 #### A. KinokoNetWork内に属する開発グループを指します。
