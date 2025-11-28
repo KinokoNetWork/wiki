@@ -42,10 +42,8 @@ sidebar: true
 * [📉ライフサーバー](lifeserver/)
 * [🥪サバイバルサーバー](server/survival/)
   * [👻サバイバル鯖 - トラップタワーについて](info/trap)
-* [🌟サバイバル＋サーバー](server/survival_plus/)
-* [🎮ミニゲームサーバー](server/minigame)
-* [🛠️ハイパーウルトララスーパーサーバー](server/hyperultrasuper)
-* [🧱サンドボックスサーバー](server/sandbox)
+* [⭐クリエイティブサーバー](server/creative)
+* [⚔️PvPサーバー](server/pvp)
 
 ### 見てて楽しいページ
 #### 機能・便利
@@ -61,8 +59,6 @@ sidebar: true
 * [CoreProtect（バックアップのやつ）](plugin/coreprotect)
 * [Playtimes（プレイ時間を表示するPlugin）](plugin/playtimes)
 * [VoteSystem（投票Plugin）](plugin/votesystem)
-* [MsgBoard（掲示板Plugin）](plugin/msgboard)
-* [BuildReviewer](plugin/BuildReviewer)
 
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
@@ -88,5 +84,5 @@ sidebar: true
 * [form.run（お問い合わせフォーム）](https://form.run/@kinokonetwork)
 * [GitHub - KinokoNetWork](https://github.com/KinokoNetWork)
 
-※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。  
+※本サーバーは Mojang社から承認を受けておらず、Mojang社とは一切関係ありません。
 ※MinecraftはMojangの登録商標です。
