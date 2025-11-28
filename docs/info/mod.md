@@ -19,15 +19,12 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - 以下の許可Modを導入する際に、必須である前提Modなど
 
 ## 許可Mod名
+
 | Mod名 || 説明 |  |
 |---|---|---|
 | Minecraft Forge | Forge | MinecraftのModを導入するための前提Mod |
 |^^        | Optifine | Minecraftのパフォーマンスを向上させるMod |
-
-<br>
-
-| Mod名 || 説明 |  |
-|---|---|---|
+|^^        | Lunar Client | PvP用のMinecraftクライアント（非推奨・サーバーから遮断される可能性大） |
 | Fabric | Fabric | MinecraftのModを導入するための前提Mod |
 |^^        | Fabric API | FabricのModを動作させるための前提Mod |
 |^^        | Sodium | Minecraftのパフォーマンスを向上させるMod |
@@ -54,11 +51,18 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 - その他、KinokoNetWorkが不適切と判断したMod
 
 ## 禁止Mod、クライアント名
-- Feather Client
-- Badlion Client
-- Litematica（設計図Mod）
-- Modern UI
-- Replay Mod
-- Fzzy Config
-- Subtle Effects
+過去に、質問があって、禁止と判断されたMod、クライアント名を掲示します。<br>
+あくまで、挙げられたものだけですので、これ以外にも[禁止Mod、クライアント](#禁止modジャンル)は存在します。<br>
+
+| Mod名 || 説明 |  |
+|---|---|---|
+| Client | Feather Client | PvP用のMinecraftクライアント |
+|^^        | Badlion Client | PvP用のMinecraftクライアント |
+| Mod | Litematica | 設計図Mod |
+|^^       | Modern UI | 2D・3Dレンダリングを強化するMod |
+|^^       | Xaero's Minimap | ミニマップMod |
+|^^       | Replay Mod | リプレイMod |
+|^^       | Fzzy Config | Mod設定を手助けするMod |
+|^^       | Subtle Effects | パーティクルとサウンドエフェクトを追加するMod |
+
 - その他、チート・ハッキングを可能とするMod・クライアント
