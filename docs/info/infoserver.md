@@ -12,7 +12,7 @@ sidebar: true
 | 在籍運営数         | 2人                      |
 | サーバーIP         | `play.kinokoroom.net:25565`  |
 | BEサーバーIP       | `play.kinokoroom.net:19132`  |
-| サーバーソフト      | Velocity 1.13 ~ 1.21.x |
+| サーバーソフト      | Velocity 1.13 ~ 1.21.8 |
 | 緊急連絡先         | [X@kinoko1216](https://x.com/kinoko1216) |
 
 ## 歴史

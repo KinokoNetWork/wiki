@@ -58,25 +58,7 @@ KinokoServer2に参加できないプレイヤーは、当鯖のルールまた�
 運営による私的な理由ではなく、必ず利用規約に基づいて処罰が下されます。<br>
 また、当鯖のみで起こった限りであり、他鯖の運営は、プレイヤーの動機にはならないことに留意してください。<br>
 
-::: details Minecraftサーバーに入れない方 {close}
-| server | player | reason |
-| ------ | ------ | ------ |
-| lobby | kazu2023kazu | 運営メンバー、または管理者の、指示に反する行為 |
-| lobby | TUSU814 | 当サービスに対して、コンテンツを利用して負荷をかける行為、または示唆する行為 |
-| lobby | fellow522 | Griefing |
-| lobby | Sinamonn2025_1_1 | 運営メンバーに対して、要求、命令、脅迫、強要、ハラスメントに該当する行為 |
-| lobby | bEwasabi7855 | 運営メンバーに対して、要求、命令、脅迫、強要、ハラスメントに該当する行為 |
-| survival | kazu2023kazu | 運営メンバー、または管理者の、指示に反する行為 |
-| survival | TUSU814 | 当サービスに対して、コンテンツを利用して負荷をかける行為、または示唆する行為 |
-| survival | Soya_end | Griefing |
-| survival | katsunorigame | Griefing |
-| survival | SoarMell | 他プレイヤーの建築破壊、窃盗、プレイ妨害になる、動作・チャットなどをする行為 |
-| survival | naonao555 | 他プレイヤーの建築破壊、窃盗、プレイ妨害になる、動作・チャットなどをする行為 |
-| survival | bEmayorasimoi | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為 |
-| survival | bEsanoR0621 | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為 |
-| survival | bEIkuraUmai2 | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為 |
-| survival | [Sizuku_MC](https://mcstats.kinokoroom.net/users/1b1d95f5-5810-40e5-8f01-d6ebeef19ef3) | 他プレイヤーの建築の無断破壊、アイテム窃盗する行為, 使用禁止Modを使用、または示唆する行為, 当サービスを使用して、他コミュニティの宣伝や勧誘を行う行為, 当サービスに対して、コンテンツを利用して負荷をかける行為、または示唆する行為, ルール違反や運営の仕事妨害を、助長したり示唆する行為 |
-:::
+[https://mcstats.kinokoroom.net/](https://mcstats.kinokoroom.net/)で自分のMCIDを検索してください。
 
 ## KinokoServer2以外のマイクラサーバーで入れない方
 入れない理由は、処罰ではなく不審なIPまたは動作によるものだと推察されます。<br>

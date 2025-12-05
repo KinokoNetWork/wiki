@@ -24,8 +24,8 @@ sidebar: true
 ## ページ集
 ### 原点
 * [🏠メインページ](index.md)
-* [📌利用規約など](tos.md)
-* [🌐For Visitors](visitors.md)
+* [📌ルール・利用規約](tos.md)
+* [🌐For Visitors / がいこくじんむけ](visitors.md)
 
 ### サーバー情報
 * [🔰サーバー概要](info/infoserver.md)
@@ -47,24 +47,26 @@ sidebar: true
 
 ### 見てて楽しいページ
 #### 機能・便利
+* [📊mcstatsサイトについて](info/mcstats)
 * [🔍役職名とPrefixについて](info/prefix)
 * [👆カスタム進捗について](server/survival/achievement.md)
 
 #### プラグインリスト
-* [KinokoManager（鯖専用Plugin）](plugin/manager)
-* [GSit（椅子に座れるPlugin）](plugin/gsit)
-* [LWC（チェスト守るやつ）](plugin/lwc)
-* [AthleticSystem（アスレのPlugin）](plugin/as)
-* [MissionManager（ミッションPlugin）](server/survival/mission)
-* [CoreProtect（バックアップのやつ）](plugin/coreprotect)
-* [Playtimes（プレイ時間を表示するPlugin）](plugin/playtimes)
-* [VoteSystem（投票Plugin）](plugin/votesystem)
+* [🍄KinokoManager（鯖専用Plugin）](plugin/manager)
+* [💺GSit（椅子に座れるPlugin）](plugin/gsit)
+* [💼LWC（チェスト守るやつ）](plugin/lwc)
+* [🏃AthleticSystem（アスレのPlugin）](plugin/as)
+* [📩MissionManager（ミッションPlugin）](server/survival/mission)
+* [🛡️CoreProtect（バックアップPlugin）](plugin/coreprotect)
+* [⏰Playtimes（プレイ時間を表示するPlugin）](plugin/playtimes)
+* [📦VoteSystem（投票Plugin）](plugin/votesystem)
+* [📮AdminPost（運営からのお知らせを受け取るPlugin）](plugin/adminpost)
 
 #### 運営体制について
 * [サーバー運営方針](admin/adpolicy)
 * [運営登用規約](admin/adpolicy_employ)
 * [運営募集について](admin/recruit.md)
-* [鯖を支える運営メンバー](admin/)
+* [運営メンバー](admin/)
 
 #### その他
 * [サーバーニュース](news/)
