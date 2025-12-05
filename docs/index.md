@@ -69,7 +69,6 @@ sidebar: true
 * [運営メンバー](admin/)
 
 #### その他
-* [サーバーニュース](news/)
 * [前鯖の話](other/server1.md)
 * [サーバー用語](other/serverwords.md)
 * [心当たりがあって、サーバーに入れない場合](other/stop.md)
