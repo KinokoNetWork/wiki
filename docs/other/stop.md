@@ -50,6 +50,7 @@ Discordでは、荒らし対策として、複数のBotを使用し、メッセ�
 | aieieu | griefing |
 | tanto0103 | 不審なアカウントと判断したため |
 | invanxko_976 | 詐欺URLの送信 |
+| priyazero420 | 不適切なメッセージの送信 |
 :::
 
 ## Minecraftサーバーに入れない方
