@@ -38,6 +38,8 @@ Minecraft Modは、使用すると追加コンテンツを導入できたり、�
 |^^       | CocoaInput | 看板・チャットへの日本語入力を補助するMod |
 |^^       | Chat Heads | チャットにプレイヤーの顔を表示するMod |
 |^^       | Chat Notify | メッセージが送信されたときに音を鳴らすMod |
+|^^       | Presence Footsteps | 足音を改善するMod |
+|^^       | Blur+ | インベントリの背景にぼかしを入れるMod |
 
 ## 禁止Modジャンル
 - リプレイMod
