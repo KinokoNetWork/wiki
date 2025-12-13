@@ -57,7 +57,6 @@ sidebar: true
 * [💼LWC（チェスト守るやつ）](plugin/lwc)
 * [🏃AthleticSystem（アスレのPlugin）](plugin/as)
 * [📩MissionManager（ミッションPlugin）](server/survival/mission)
-* [🛡️CoreProtect（バックアップPlugin）](plugin/coreprotect)
 * [⏰Playtimes（プレイ時間を表示するPlugin）](plugin/playtimes)
 * [📦VoteSystem（投票Plugin）](plugin/votesystem)
 * [📮AdminPost（運営からのお知らせを受け取るPlugin）](plugin/adminpost)
