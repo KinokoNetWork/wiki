@@ -68,9 +68,10 @@ sidebar: true
 * [運営メンバー](admin/)
 
 #### その他
-* [前鯖の話](other/server1.md)
-* [サーバー用語](other/serverwords.md)
-* [心当たりがあって、サーバーに入れない場合](other/stop.md)
+* [前鯖の話](other/server1)
+* [サーバー用語](other/serverwords)
+* [心当たりがあって、サーバーに入れない場合](other/stop)
+* [サーバー接続エラー集](other/error)
 * [Wikiの編集について](other/wikiedit)
 
 ### リンク集

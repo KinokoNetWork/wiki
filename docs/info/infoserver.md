@@ -11,7 +11,7 @@ sidebar: true
 | サーバー責任者     | Kinoko_2K (@kinoko1216)  |
 | 在籍運営数         | 2人                      |
 | サーバーIP         | `play.kinokoroom.net:25565`  |
-| BEサーバーIP       | `play.kinokoroom.net:19132`  |
+| BEサーバーIP       | `kinokoroom.net:19132`  |
 | サーバーソフト      | Velocity 1.13 ~ 1.21.8 |
 | 緊急連絡先         | [X@kinoko1216](https://x.com/kinoko1216) |
 
