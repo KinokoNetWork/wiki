@@ -70,6 +70,7 @@ sidebar: true
 #### その他
 * [前鯖の話](other/server1)
 * [サーバー用語](other/serverwords)
+* [サーバー内の事故・事件集](other/incident)
 * [心当たりがあって、サーバーに入れない場合](other/stop)
 * [サーバー接続エラー集](other/error)
 * [Wikiの編集について](other/wikiedit)
