@@ -43,7 +43,7 @@ sidebar: true
 * [🥪サバイバルサーバー](server/survival/)
   * [👻サバイバル鯖 - トラップタワーについて](info/trap)
 * [⭐クリエイティブサーバー](server/creative)
-* [⚔️PvPサーバー](server/pvp)
+* [⚔️kPvPサーバー](server/pvp)
 
 ### 見てて楽しいページ
 #### 機能・便利
