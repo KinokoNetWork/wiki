@@ -8,12 +8,10 @@ sidebar: true
 
 投票機能とは、外部サービス「[MinePortal](https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j)」と「[minecraft.jp](https://minecraft.jp/servers/kinoko.ddns.net)」の「きのこサーバー2」への投票を行うと、スコアが上がり、宣伝につながることです。
 
-投票すると、鉄インゴット1個が貰えます。あと、鯖主が喜びます。🎉
+投票すると、サバイバルサーバーで使える250 kinocoinが貰えます。あと、鯖主が喜びます。🎉
 ![vote_IronIngot](../images/voteiron_ingot.png)
 
 投票するには、外部サービスのログインをしないといけません。
-
-Wikiに説明が記載される予定です。お待ちください。
 
 - MinePortalサーバーリスト → https://mineportal.jp/servers/cm5j7f1hi0000iuiqxfe3t47j
 - Minecraft.jpサーバーリスト → https://minecraft.jp/servers/kinoko.ddns.net
