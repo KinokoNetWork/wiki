@@ -41,7 +41,7 @@ sidebar: true
 * [🍀ロビーサーバー](server/lobby)
 * [📉ライフサーバー](lifeserver/)
 * [🥪サバイバルサーバー](server/survival/)
-  * [サバイバルサーバーの経済要素について](server/survival/economy/)
+  * [💵サバイバルサーバーの経済要素について](server/survival/economy/)
   * [👻サバイバル鯖 - トラップタワーについて](info/trap)
 * [⭐クリエイティブサーバー](server/creative)
 * [⚔️kPvPサーバー](server/pvp)
