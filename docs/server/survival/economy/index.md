@@ -8,7 +8,6 @@ sidebar: true
 それらの紹介を行います。
 
 ## 経済要素ページ目次
-mc=> Minecraft｜real=> 現実の話
 - [サバイバルサーバーの経済要素について](index)
   - [◆税金について (mc)](tax)
   - [◇需要と供給について (real)](demand_and_supply)
