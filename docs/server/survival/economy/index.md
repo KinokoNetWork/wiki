@@ -13,6 +13,7 @@ sidebar: true
   - [◇需要と供給について (real)](demand_and_supply)
   - [◆買い物について (mc)](shopping)
   - [◆どうやってお金を稼ぐか (mc)](earn)
+  - [◆きのこサーバー専用 独占禁止法 (mc)](antitrust_law)
 
 [[toc]]
 
