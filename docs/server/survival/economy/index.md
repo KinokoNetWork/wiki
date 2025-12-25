@@ -11,6 +11,7 @@ sidebar: true
 - [サバイバルサーバーの経済要素について](index)
   - [◆税金について (mc)](tax)
   - [◇需要と供給について (real)](demand_and_supply)
+  - [◆買い物について (mc)](shopping)
   - [◆どうやってお金を稼ぐか (mc)](earn)
 
 [[toc]]
